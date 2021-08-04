@@ -1,0 +1,3522 @@
+[
+    {
+        "id": "0",
+        "english": "A   bad   beginning   makes   a   bad\nending",
+        "uzbek": "Yomonchilik   bo'lganda,   qor\nustiga muz yog'ar"
+    },
+    {
+        "id": "1",
+        "english": "A bad excuse is better than none",
+        "uzbek": "Yaxshi  gap  bilan  ilon  inidan chiqar,    Yomon    gap    bilan\nmusulmon dinidan."
+    },
+    {
+        "id": "2",
+        "english": "A  good  beginning  makes  a  good ending.",
+        "uzbek": "Yaxshi    yil    —    bahoridan, Yomon    kun    —    saharidan\nma’lum."
+    },
+    {
+        "id": "3",
+        "english": "A good dog deserves a good bone.",
+        "uzbek": "Yaxshiga        ipak        ilashur,\nYomonga tikan ilashu"
+    },
+    {
+        "id": "4",
+        "english": "A good dog deserves a good bone.",
+        "uzbek": "Yaxshi itga - yaxshi suyak."
+    },
+    {
+        "id": "5",
+        "english": "A living dog is better than a dead\nlion.",
+        "uzbek": "O‘lik arslondan tirik it afzal."
+    },
+    {
+        "id": "6",
+        "english": "Absence sharpens love,\npresence strengthens it.",
+        "uzbek": "Ko'z ko'zga tushsa,\nMehr dilga tushadi"
+    },
+    {
+        "id": "7",
+        "english": "Abundance   of   money   ruins   the\nyouth, The.",
+        "uzbek": "Yomon o'g'il molga o'rtoq,\nYaxshi o'g'il — jonga."
+    },
+    {
+        "id": "8",
+        "english": "Accidents  will happen in the  best\nregulated families.",
+        "uzbek": "Yaxshi ota-onadan ham\nyomon farzand tug'ilar"
+    },
+    {
+        "id": "9",
+        "english": "Actions speak louder than words.",
+        "uzbek": "Gap bilguncha — ish bil."
+    },
+    {
+        "id": "10",
+        "english": "Adversity is a good discipline.",
+        "uzbek": "Bosh toshga tegsa,\nAql boshga kelar."
+    },
+    {
+        "id": "11",
+        "english": "Adversity makes a man wise, not rich.",
+        "uzbek": "Zamon seni o'qitar,\nTayoq bilan so'kitar. Sabog'ingni bilmasang, Do'konda bo'z to'qitar."
+    },
+    {
+        "id": "12",
+        "english": "Adversity, Many can bear/but few\ncontempt.",
+        "uzbek": "Qiyinchilik      mehnat      bilan\nyengilar."
+    },
+    {
+        "id": "13",
+        "english": "After dinner comes the reckoning.",
+        "uzbek": "Yemoqning qusmog'i bor."
+    },
+    {
+        "id": "14",
+        "english": "After   dinner   sit   a   while,   after supper walk a mile.",
+        "uzbek": "Qorning     ochmasdan     ovqat yegin,    Qorning    to'ymasdan\nqo'l artgin."
+    },
+    {
+        "id": "15",
+        "english": "After rain comes sunshine.",
+        "uzbek": "Oyning   o‘n   beshi   qorong'u\nbo'lsa, O‘n beshi yorug' bo'lad"
+    },
+    {
+        "id": "16",
+        "english": "After rain comes sunshine.",
+        "uzbek": "Oyning    o'n    beshi    qorong'i bo'lsa,        O'n    beshi    yorug'\nbo'ladi."
+    },
+    {
+        "id": "17",
+        "english": "All  are  not  saint  that  go  to  the\nchurch.",
+        "uzbek": "Eshak  Makkaga  borgani  bilan\nhoji bo'lmas."
+    },
+    {
+        "id": "18",
+        "english": "All covet, all lose.",
+        "uzbek": "Ikki        kemaning        boshini\nushlagan g'arq bo'ladi."
+    },
+    {
+        "id": "19",
+        "english": "All in the day's work, It is.",
+        "uzbek": "Ertalabki vaqt-naqdgina baxt."
+    },
+    {
+        "id": "20",
+        "english": "All is not gold that glitters.",
+        "uzbek": "Yaltiroq          narsa          oltin\nbo'lavermaydi."
+    },
+    {
+        "id": "21",
+        "english": "All is over bar (but) the shouting.",
+        "uzbek": "Mehnat qancha og'ir bo'lsa,\nKeti shuncha shirin bo'ladi."
+    },
+    {
+        "id": "22",
+        "english": "Always is а 1оld time.",
+        "uzbek": "Oldindagi ishni Xudo biladi."
+    },
+    {
+        "id": "23",
+        "english": "An old dog barks not in vain.",
+        "uzbek": "Qari it ko’p yo‘l bilar."
+    },
+    {
+        "id": "24",
+        "english": "Anger is a short madness",
+        "uzbek": "Jahl kelganda aql ketadi."
+    },
+    {
+        "id": "25",
+        "english": "Answer   turneth   away   wrath,   A\nsoft.",
+        "uzbek": "Egilgan boshni qilich kesmas."
+    },
+    {
+        "id": "26",
+        "english": "Anticipates, That which one least/soonest comes to pass.",
+        "uzbek": "Kafil  turma,  kafansiz  ketasan.Kutilmagan       narsa       oyoq ostidan chiqar."
+    },
+    {
+        "id": "27",
+        "english": "Appearances are deceptive.",
+        "uzbek": "Usti yaltiroq, ichi qaltiroq."
+    },
+    {
+        "id": "28",
+        "english": "Apple  injures  its  neighbours,  The\nrotten.",
+        "uzbek": "Tirraqi buzoq podani bulg'ar."
+    },
+    {
+        "id": "29",
+        "english": "Art     has     no     enemy     except\nignorance.",
+        "uzbek": "Ahmoqning       o'zi       bilmas,\nBilganning so'ziga kirmas."
+    },
+    {
+        "id": "30",
+        "english": "Art is long, life is short.",
+        "uzbek": "Ilmsiz — bir yashar,\nllmli — ming yashar."
+    },
+    {
+        "id": "31",
+        "english": "As you make your bed,\nso must you lie on it.",
+        "uzbek": "Ko'rpangga qarab oyoq uzat."
+    },
+    {
+        "id": "32",
+        "english": "As you sow, shall you mow.",
+        "uzbek": "Nima eksang, shuni o'rasan."
+    },
+    {
+        "id": "33",
+        "english": "Ask no questions and you will\nbe told no lies.",
+        "uzbek": "Savol — osmondan,\nJavob — tegirmondan."
+    },
+    {
+        "id": "34",
+        "english": "Author  as  you  choose  a  friend,\nChoose an",
+        "uzbek": "Kitob    ko'rmagan    kalla    —\nGiyoh unmagan dala."
+    },
+    {
+        "id": "35",
+        "english": "Axe to grind, To have an",
+        "uzbek": "Gap bilan osh pishmas."
+    },
+    {
+        "id": "36",
+        "english": "Аре  goes,  The  higher  the  /  the\nmore he shows his tail.",
+        "uzbek": "Echki         yugurib,         kiyik\nbo'lolmas."
+    },
+    {
+        "id": "37",
+        "english": "Bacchus has drowned more\nmen than Neptune.",
+        "uzbek": "Aroq  ichgan  —  o'ziga  kafan\nbichgan."
+    },
+    {
+        "id": "38",
+        "english": "Back is spent under his belly,\nWhat is got over the devil's.",
+        "uzbek": "Haromdan  yig'ilgan  haromga\nketar."
+    },
+    {
+        "id": "39",
+        "english": "Bad excuse is better than none, A.",
+        "uzbek": "Yaxshi  gap  bilan  ilon  inidan chiqar,\nYomon  gap  bilan  musulmon\ndinidan."
+    },
+    {
+        "id": "40",
+        "english": "Bad injures the good, He that spares the.",
+        "uzbek": "Hasisning       yonidan       moli chiqquncha,\nTanidan joni chiqadi."
+    },
+    {
+        "id": "41",
+        "english": "Bad news has wings.",
+        "uzbek": "Yomon so'zning qanoti bor."
+    },
+    {
+        "id": "42",
+        "english": "Bad  workman  quarrels with his  tools,\nA",
+        "uzbek": "O'zolmagan      otga       uzangi\nbahona."
+    },
+    {
+        "id": "43",
+        "english": "Bargain is a bargain, A.",
+        "uzbek": "Mard     aytmas,     Aytsa     —\nqaytmas."
+    },
+    {
+        "id": "44",
+        "english": "Barking dogs seldom bite",
+        "uzbek": "Qopag'on it tishini ko'rsatmas."
+    },
+    {
+        "id": "45",
+        "english": "Barking dogs seldom bite.",
+        "uzbek": "Ko‘p           vovullagan           it\ntishlamaydi."
+    },
+    {
+        "id": "46",
+        "english": "Bats in the belfry, To have .",
+        "uzbek": "Telba tosh yig'ar."
+    },
+    {
+        "id": "47",
+        "english": "Be  sure  before  you  marry  of  a\nhouse wherein to tarry.",
+        "uzbek": "Onasiga qarab qizini ol."
+    },
+    {
+        "id": "48",
+        "english": "Beauty will buy no beef.",
+        "uzbek": "Chiroyga    non    botirib    yeb\nbolmas."
+    },
+    {
+        "id": "49",
+        "english": "Bedfellows, Poverty acquaints with strange.",
+        "uzbek": "Yo'qchilik  —  toshdan  qattiq, go'ngdan sassiq. "
+    },
+    {
+        "id": "50",
+        "english": "Beginning makes a good ending, A good",
+        "uzbek": "Yaxshi yil — bahoridan,\nYomon    kun    —    saharidan malum."
+    },
+    {
+        "id": "51",
+        "english": "Beginning think of the end, In every.",
+        "uzbek": "Yaxshi yerga yotsang, Yaxshi tush ko'rasan. Yomon yerga yotsang, Yomon tush ko'rasan."
+    },
+    {
+        "id": "52",
+        "english": "Bellies have no ears, Hungry .",
+        "uzbek": "Osh-nonsiz    yashab   bo'lmas,\nQuruq gapni oshab bo'lmas."
+    },
+    {
+        "id": "53",
+        "english": "Best  ,  If  you  cannot   have  the/ makes the best of what you have.",
+        "uzbek": "Qanoat       aylagan       shoh-u\njahondir,        Tama        qilgan eshakdan ham yomondir."
+    },
+    {
+        "id": "54",
+        "english": "Better   a   glorious   death   than   a\nshameful life",
+        "uzbek": "Yer bo'lib yashagandan,\nSher bo'lib o'lgan yaxshi."
+    },
+    {
+        "id": "55",
+        "english": "Better   a   lean   peace   than   a   fat\nvictory.",
+        "uzbek": "Urush   —   ofat,   Tinchlik   —\nrohat."
+    },
+    {
+        "id": "56",
+        "english": "Better an open enemy than a false friend.",
+        "uzbek": "Ablah      do'st      dushmandan yomon,     Ne     hiyla     bo'lsa,\nishlatar oson."
+    },
+    {
+        "id": "57",
+        "english": "Better    be    alone    than   in   bad\ncompany.",
+        "uzbek": "Ulfating      boyo'g'li      bo'lsa,\nMaskaning — vayrona."
+    },
+    {
+        "id": "58",
+        "english": "Better be sure than sorry.",
+        "uzbek": "Keyingi pushaymon,\nO'zingga dushman."
+    },
+    {
+        "id": "59",
+        "english": "Better  be  the  head  of  a  dog  than\nthe tail of a lion.",
+        "uzbek": "Arslonning          o'ligi          —\nsichqonning tirigi."
+    },
+    {
+        "id": "60",
+        "english": "Better buy than borrow.",
+        "uzbek": "Qarzing       uchun       qayg'ir,oladiganing qochmas."
+    },
+    {
+        "id": "61",
+        "english": "Better  die  a  beggar  than  live  a beggar.",
+        "uzbek": "Otliqning      qamchisi      ham,\nYayovning       kaltagi       ham, Kambag'alning boshiga tegadi."
+    },
+    {
+        "id": "62",
+        "english": "Better go to heaven in rags than to\nhell in embroidery.",
+        "uzbek": "Boy  bo'lib  bezillaguncha,  Qul\nbo'lib qo'porib yur."
+    },
+    {
+        "id": "63",
+        "english": "Better late than never.",
+        "uzbek": "Hech      bolmagandan      kech\nbolgani yaxshi."
+    },
+    {
+        "id": "64",
+        "english": "Better   never   begin   than   never\nmake an end.",
+        "uzbek": "Bilmagan ishga urinma,\nUrinib tuzoqqa ilinma."
+    },
+    {
+        "id": "65",
+        "english": "Better untaught than ill-taught.",
+        "uzbek": "Chalasavod — chirik rabot."
+    },
+    {
+        "id": "66",
+        "english": "Between  two  stools  one  falls  to\nthe ground.",
+        "uzbek": "Ikki kemaning boshini tutgan,\ng'arq boladi."
+    },
+    {
+        "id": "67",
+        "english": "Bird  in  hand  is  worth  two  in  the\nbush, A.",
+        "uzbek": "Nasiya  saryog'dan  naqd  o'pka\nyaxshi."
+    },
+    {
+        "id": "68",
+        "english": "Birds  of  this  year  in  last  year's\nnest, There are no.",
+        "uzbek": "O'tgan      bulutdan      yomg'ir\nkutma."
+    },
+    {
+        "id": "69",
+        "english": "Bitter  to  endure  may  be  sweet  to\nremember, That which was.",
+        "uzbek": "Ari chaqdi deb arazlama,\nBol bor."
+    },
+    {
+        "id": "70",
+        "english": "Bitter,   Who   has   never   tasted/\nknows not what is sweet.",
+        "uzbek": "Achchiqni tatib ko'rmaguncha,\nShirinning qadriga yetmaysan."
+    },
+    {
+        "id": "71",
+        "english": "Black  sheep  in  every  flock,There\nare.",
+        "uzbek": "Bitta tirraqi buzoq,\nBir to'p podani buzadi."
+    },
+    {
+        "id": "72",
+        "english": "Blind in their own cause, Men are.",
+        "uzbek": "Ishtoni   yo'q,   tizzasi   yirtiqqa\nkulibdi."
+    },
+    {
+        "id": "73",
+        "english": "Blind  leads the blind, If the/ both\nshall fall into the ditch.",
+        "uzbek": "Ko'rni ko'r yetaklasa,\nGo'rga olib boradi."
+    },
+    {
+        "id": "74",
+        "english": "Blind man will not thank you for a\nlooking-glass, A.",
+        "uzbek": "Ko'rga ko'zgu kerakmas."
+    },
+    {
+        "id": "75",
+        "english": "Boast and small roast, Great.",
+        "uzbek": "Maqtanganning    to'yiga    bor,\nKerilganning uyiga."
+    },
+    {
+        "id": "76",
+        "english": "Bolt is soon shot, A fool's.",
+        "uzbek": "Ahmoqning       boshiga       aql yopishtirib qo'ysang,\nQo'li bilan ko'chirib tashlaydi."
+    },
+    {
+        "id": "77",
+        "english": "Brain in the devil's workshop, An\nidle.",
+        "uzbek": "Ishchanlik       to'rga       tortar,\nYalqovlik go'rga tortar."
+    },
+    {
+        "id": "78",
+        "english": "Brains  in  one's  little  finger  than one  has  in  his  whole  body,  Have\nmore.",
+        "uzbek": "Yuzta   ahmoqdan   bitta   aqlli zo'r."
+    },
+    {
+        "id": "79",
+        "english": "Bread of idleness, Eat the.",
+        "uzbek": "Bekorchining beti yo'q,\nQozon osar eti yo'q."
+    },
+    {
+        "id": "80",
+        "english": "Bred  in  the  bone  will  not  out  of\nthe flesh, What is.",
+        "uzbek": "Tayoq o'g'rini to'g'rilar,\nGo'r bukrini to'g'rilar."
+    },
+    {
+        "id": "81",
+        "english": "Bridge  he  goes  over,  Let  every\nman praise the.",
+        "uzbek": "Bir  kun  tuz  ichgan  joyga  —\nQirq kun salom."
+    },
+    {
+        "id": "82",
+        "english": "Bull in a china shop , A.",
+        "uzbek": "Qo'polning              o'pganidan\nTo'qolning tepgani yaxshi."
+    },
+    {
+        "id": "83",
+        "english": "Bullet has it billet , Every",
+        "uzbek": "Taqdirning balosi ko'p,\nSaqlasa panosi ko'p."
+    },
+    {
+        "id": "84",
+        "english": "Bulls the cow must keep the calf ,\nHe that.",
+        "uzbek": "Ehtiyoting   bo'lsa,   ehtiyojing\nbo'lmas."
+    },
+    {
+        "id": "85",
+        "english": "Burn the candle at both ends ,To.",
+        "uzbek": "O'ntaning  yor-yori  bolguncha,\nBittaning vafodori bo'l."
+    },
+    {
+        "id": "86",
+        "english": "Business before pleasure.",
+        "uzbek": "Mehnat,      mehnatning      tagi rohat."
+    },
+    {
+        "id": "87",
+        "english": "Business  is   nobody's  business  ,\nEverybody's",
+        "uzbek": "Cho'pon    ko'p    bo'lsa,    Oo'y\nharom o'ladi."
+    },
+    {
+        "id": "88",
+        "english": "Bygones be bygones, Let.",
+        "uzbek": "O'tgan ishga salavot"
+    },
+    {
+        "id": "89",
+        "english": "Calamity is man's true touchstone.",
+        "uzbek": "Odam safarda bilinar,\nBotir — xatarda."
+    },
+    {
+        "id": "90",
+        "english": "Calends, At the Greek.",
+        "uzbek": "Va'dasiga        vafosi        yo'q,\nKo'rshapalakning ko'zi yo'q."
+    },
+    {
+        "id": "91",
+        "english": "Calf love, half love; old love, cold love.",
+        "uzbek": "Sevgining        bahori        bilan shodlanma,\nYoz-u qishi ham bordir."
+    },
+    {
+        "id": "92",
+        "english": "Cap fits, If the/ wear it.",
+        "uzbek": "O'g'rini   o'g'ri   desang,   o'lgisi kelar,\nTo'g'rini  o'g'ri  desang,  kulgisi\nkelar."
+    },
+    {
+        "id": "93",
+        "english": "Cards are the devil's books.",
+        "uzbek": "Qimordan     kelgan     qimorga\nketar."
+    },
+    {
+        "id": "94",
+        "english": "Care killed a cat.",
+        "uzbek": "Qayg'u qaritar, g'am o'ldirar."
+    },
+    {
+        "id": "95",
+        "english": "Care of the pence and the pounds will take care of themselves, Take.",
+        "uzbek": "Tanga tiyindan o'sar, Yilqi qulundan o'sar."
+    },
+    {
+        "id": "96",
+        "english": "Carry coals to Newcastle, To.",
+        "uzbek": "Daryo bo'yida quduq qazima."
+    },
+    {
+        "id": "97",
+        "english": "Cat jumps, То see which way the.",
+        "uzbek": "Shamol          kemadagilarning\nxohishiga qarab esmas."
+    },
+    {
+        "id": "98",
+        "english": "Cat the way to the kirn Jeach the.",
+        "uzbek": "Tulkiga        rahm        qilsang,\nTovug'ingdan ajraysan."
+    },
+    {
+        "id": "99",
+        "english": "Chatters to you, Who/ will chatter\nof you.",
+        "uzbek": "Yomonga    aytsang    siringni,\nMingta qilar biringni."
+    },
+    {
+        "id": "100",
+        "english": "Cheese goes half away in parings,\nThe king's.",
+        "uzbek": "Xon qoshida qorang bo'lsa,\nQora kemang qirda yurar."
+    },
+    {
+        "id": "101",
+        "english": "Chestnuts   out   of   the   fire,   Pull\nsmb's.",
+        "uzbek": "Birovning   qo'li   bilan   tikan\nyulish oson."
+    },
+    {
+        "id": "102",
+        "english": "Chickens before they are hatched,\nDon't count your.",
+        "uzbek": "Chuchvarani pishirib sana,\nJo'jani — ochirib."
+    },
+    {
+        "id": "103",
+        "english": "Chip of the old block, A.",
+        "uzbek": "Ilonning     bolasi     —     ilon,\nChayonning bolasi — chayon."
+    },
+    {
+        "id": "104",
+        "english": "Choose  a  wife  rather  by  your  ear\nthan your eye.",
+        "uzbek": "Onasi maqtagan qizni olma,\nEl maqtagan qizni ol."
+    },
+    {
+        "id": "105",
+        "english": "Church,    The    nearer    the/    the farther from God.",
+        "uzbek": "Besh     vaqt     namozini     tark\netmas,    Harom-xarishni    farq etmas."
+    },
+    {
+        "id": "106",
+        "english": "Civility costs nothing.",
+        "uzbek": "Xushxulqlik       fazilati       —\nodamiylik ziynati."
+    },
+    {
+        "id": "107",
+        "english": "Cleanliness is next to godliness.",
+        "uzbek": "Toza qalbda dog' bo'lmas."
+    },
+    {
+        "id": "108",
+        "english": "Climbers     have     sudden     falls,\nHasty.",
+        "uzbek": "Shoshding,    jarga    qulading,\nShoshmading, niyatga yetding."
+    },
+    {
+        "id": "109",
+        "english": "Close mouth catcheth no flies, A.",
+        "uzbek": "Og'ziga   kelganni   demak   — nodonning ishi,\nOldiga    kelganni    yemak    -\nhayvonning ishi."
+    },
+    {
+        "id": "110",
+        "english": "Clothes make the man.",
+        "uzbek": "Kiyiming   janda   bo'lsa   ham,\nGanda bo’lmasin."
+    },
+    {
+        "id": "111",
+        "english": "Cloud has a silver lining, Every.",
+        "uzbek": "Har yaxshida bir «ammo» bor,\nHar yomonda — bir «lekin»."
+    },
+    {
+        "id": "112",
+        "english": "Coat  according  to  the  cloth,  Cut\nthe",
+        "uzbek": "Qulochingga    qarab    ketmon\nchop."
+    },
+    {
+        "id": "113",
+        "english": "Coat  that  makes  the  gentleman, It's not the gay",
+        "uzbek": "Yaxshi  kiysang  —  el  ko'rar,Yaxshi yursang — el suyar."
+    },
+    {
+        "id": "114",
+        "english": "Cobbler   must   stick   to   his   last,\nThe.",
+        "uzbek": "Tezakchining       tengi       bor,\nO'roqchining o'rni bor."
+    },
+    {
+        "id": "115",
+        "english": "Cock  crows,  As  the  old/  so  doth\nthe young.",
+        "uzbek": "Qush      uyasida      ko'rganini\nqiladi."
+    },
+    {
+        "id": "116",
+        "english": "Comes     to     him     who     waits, Everything.",
+        "uzbek": "Sabr  qilsang,  g'o'radan  holva bitar,\nBesabrlar o'z oyog'idan yitar."
+    },
+    {
+        "id": "117",
+        "english": "Communications    corrupt    good manners, Evil.",
+        "uzbek": "Yomon  bilan  yer  qo'shni  ham\nbo'lma,    Go'r    qo'shni    ham bo'lma."
+    },
+    {
+        "id": "118",
+        "english": "Comparisons are odious.",
+        "uzbek": "Taqlid bilan tong otmas."
+    },
+    {
+        "id": "119",
+        "english": "Compromise  is  better  than  a  fat\nlawsuit, A lean.",
+        "uzbek": "Inoqlik jon kiritadi,\nNiyat buzilsa, jon ketadi."
+    },
+    {
+        "id": "120",
+        "english": "Confession is good for the soul.",
+        "uzbek": "Aybiga  iqror  —  mard  kishi,\nYashirmoq — qo'rqoq ishi."
+    },
+    {
+        "id": "121",
+        "english": "Conscience is a continual feast, A\ngood.",
+        "uzbek": "Insofli odam oshini yer,\nInsofsiz odam — boshini."
+    },
+    {
+        "id": "122",
+        "english": "Constant  guest is  never welcome,\nA .",
+        "uzbek": "Kunda keladigan mehmonning\nqadri yo'q."
+    },
+    {
+        "id": "123",
+        "english": "Cook and bottle-washer, Head.",
+        "uzbek": "Yigitga yetmish hunar oz."
+    },
+    {
+        "id": "124",
+        "english": "Counsel does no harm, Good.",
+        "uzbek": "Ko'p bilan kengash,\nMa'quliga yondash."
+    },
+    {
+        "id": "125",
+        "english": "Couple is not a pair, Every.",
+        "uzbek": "Ikki xaramza do'st bo'lmas"
+    },
+    {
+        "id": "126",
+        "english": "Cow  knows  not  what  her  tail  is\nworth untill she has lost it, The.",
+        "uzbek": "Oldingda  oqar  suvning  qadri\nyo'q."
+    },
+    {
+        "id": "127",
+        "english": "Cowards are cruel.",
+        "uzbek": "Qo'rqoqdan shafqat kutma."
+    },
+    {
+        "id": "128",
+        "english": "Cowards  die  many  times  before\ntheir death.",
+        "uzbek": "Qo'rqoq o'lmasdan burun o'lar,\nO'likdan nima kutib bo'lar."
+    },
+    {
+        "id": "129",
+        "english": "Creditors   have   better   memories\nthan debtors.",
+        "uzbek": "Qarz olgan qochar,\nQarz bergan quvar."
+    },
+    {
+        "id": "130",
+        "english": "Crime doesn't pay.",
+        "uzbek": "O'g'irlik mol boy qilmas."
+    },
+    {
+        "id": "131",
+        "english": "Crime,   the   higher   the   gallows,\nThe greater the.",
+        "uzbek": "O'g'irlik   solsang   qo'yningga,\nSirtmoq tushar bo'yingga."
+    },
+    {
+        "id": "132",
+        "english": "Cripples  learns  to  limp,  He  that lives with",
+        "uzbek": "Qo'shning        ko'r         bo'lsa, ko'zingni  qis,   Cho'loq   bo'lsa\n— lang."
+    },
+    {
+        "id": "133",
+        "english": "Curses   are   like   chickens;   they\ncome home to roost",
+        "uzbek": "Birovni qarg'asang,\nO'zingga urar."
+    },
+    {
+        "id": "134",
+        "english": "Сuр  must  be  carried  steadily,  A\nfull",
+        "uzbek": "Avaylab      uchmagan      qush\nqanotidan ayrilar."
+    },
+    {
+        "id": "135",
+        "english": "Danger  foreseen  is  half  avoided, A.",
+        "uzbek": "Oldingdagi   ovni   ko'rmasang\nham,   Uzoqdagi   yovni   ko'ra bil."
+    },
+    {
+        "id": "136",
+        "english": "Day the better deed, The better.",
+        "uzbek": "Har ishning vaqti bor,\nVaqt bilganning baxti bor."
+    },
+    {
+        "id": "137",
+        "english": "Debt is the worst poverty.",
+        "uzbek": "Darding bo'lsa bo'lsin,\nQarzing bo'lmasin."
+    },
+    {
+        "id": "138",
+        "english": "Deceives is ever suspected,\nHe that once.",
+        "uzbek": "Yolg'onchi chin deyolmas,\nChin desa ham, el inonmas."
+    },
+    {
+        "id": "139",
+        "english": "Desires  honour,  He  that  /  is  not\nworthy of honour",
+        "uzbek": "Shuxratparast      el      bo'lmas,\nKo'lmak suvdan ko'l bo'lmas"
+    },
+    {
+        "id": "140",
+        "english": "Devil  and  the  deep  sea,  Between\nthe.",
+        "uzbek": "Osmon uzoq, yer qattiq,\nO'lay desam, jon totlik"
+    },
+    {
+        "id": "141",
+        "english": "Devil by the tail, Pull the.",
+        "uzbek": "Behuda harakat belni sindirar."
+    },
+    {
+        "id": "142",
+        "english": "Devil  drives,  Не  must  needs  go\nwhom the.",
+        "uzbek": "O'zimdan chiqqan baloga,\nQayga boray davoga."
+    },
+    {
+        "id": "143",
+        "english": "Devil   finds   work   for   the   idle\nhands to do, The.",
+        "uzbek": "Dangasa boshin yesin,\nIllatning g'amin yesin."
+    },
+    {
+        "id": "144",
+        "english": "Devil hates holy water, Hate smb.\nas the.",
+        "uzbek": "Yomondan yo qoch, qutul,\nyo quv, qutul."
+    },
+    {
+        "id": "145",
+        "english": "Devil is good to his own, The.",
+        "uzbek": "It itning quyrug'ini bosmas."
+    },
+    {
+        "id": "146",
+        "english": "Devil knows many things because\nhe is old, The.",
+        "uzbek": "Qari bilganni pari bilmas."
+    },
+    {
+        "id": "147",
+        "english": "Devil rebuking sin, The.",
+        "uzbek": "Oldin o'zingga boq,\nSo'ngra nog'ora qoq."
+    },
+    {
+        "id": "148",
+        "english": "Devil than to lay  him, It is easierto raise the.",
+        "uzbek": "Yomonning balosiga,qayga boray davosiga."
+    },
+    {
+        "id": "149",
+        "english": "Devil  was  sick,  When  the  /  the\ndevil a monk would be.",
+        "uzbek": "Kasalingdan      ilgari      kafan\ntayyorla."
+    },
+    {
+        "id": "150",
+        "english": "Diamond cut diamond",
+        "uzbek": "Egovni egov yeydi,\nZaharni zahar yeydi."
+    },
+    {
+        "id": "151",
+        "english": "Diligence  is  the  mother  of  good\nluck.",
+        "uzbek": "Tirishgan toshga mix qoqar."
+    },
+    {
+        "id": "152",
+        "english": "Dirt  into  that  fountain  of  which thou  hast  sometime  drunk,  Never\ncast.",
+        "uzbek": "Quduqqa tupurma, qaytib icharing bor."
+    },
+    {
+        "id": "153",
+        "english": "Discreet woman have neither eyes\nnor ears.",
+        "uzbek": "Pardali qiz — pari tengsiz."
+    },
+    {
+        "id": "154",
+        "english": "Distress     makes     trouble     less,\nCompany in.",
+        "uzbek": "Ko'pchilikka  hamroh  bolsang,\nManzilingga tezroq yetasan."
+    },
+    {
+        "id": "155",
+        "english": "Do as you would be done by.",
+        "uzbek": "Pichoqni   avval   o'zingga   ur,\nOg'rimasa — birovga."
+    },
+    {
+        "id": "156",
+        "english": "Do well than to say well, Better to",
+        "uzbek": "So'zing kumush bo'lsin,\nIshing — oltin."
+    },
+    {
+        "id": "157",
+        "english": "Dog  a  bad  name  and  hang  him,\nGive a.",
+        "uzbek": "Yomon atalib tirik yurguncha,\nYaxshi atalib o'lgan yaxshi."
+    },
+    {
+        "id": "158",
+        "english": "Dog   deserves   a   good   bone,   A\ngood.",
+        "uzbek": "Yaxshiga        ipak        ilashur,\nYomonga tikan ilashur."
+    },
+    {
+        "id": "159",
+        "english": "Dog does not eat dog",
+        "uzbek": "Qarg‘a     qarg‘aning     ko‘zini\ncho‘qimaydi."
+    },
+    {
+        "id": "160",
+        "english": "Dogged that does it, It is.",
+        "uzbek": "Sabrli yetar murodga,\nSabrsiz qolar uyatga."
+    },
+    {
+        "id": "161",
+        "english": "Dogs bark, The / but caravan goes",
+        "uzbek": "It hurar — karvon o'tar."
+    },
+    {
+        "id": "162",
+        "english": "on.",
+        "uzbek": ""
+    },
+    {
+        "id": "163",
+        "english": "Dogs lie, Let sleeping.",
+        "uzbek": "Yotgan    ilonning    quyrug'ini\nbosma."
+    },
+    {
+        "id": "164",
+        "english": "Doing  at  all  is  worth  doing  well,\nWhat is worth.",
+        "uzbek": "Ishga    yaxshi   qarasang,    Ish\nham senga yaxshi qarar."
+    },
+    {
+        "id": "165",
+        "english": "Doing is better than saying.",
+        "uzbek": "Gap bilguncha, ish bil."
+    },
+    {
+        "id": "166",
+        "english": "Donkey  bray  at  you,  If  a  /  don't bray at him.",
+        "uzbek": "Ahmoqqa   aytgan   bilan   gap uqmas.\nXarsangga  qoqqan  bilan  mix\no'tmas."
+    },
+    {
+        "id": "167",
+        "english": "Door after the horse is stolen,\nLock the stable",
+        "uzbek": "So'nggi        pushaymon        —\no'zingga dushman."
+    },
+    {
+        "id": "168",
+        "english": "Door closes another opens,\nWhen one.",
+        "uzbek": "Baxt g'oyibdan kelmas,\nUni qo’ling bilan yarat."
+    },
+    {
+        "id": "169",
+        "english": "Down with dogs must rise up with fleas, He that lies",
+        "uzbek": "Yaxshiga             yondashsang, yetarsan murodga,\nYomonga            yondashsang,\nqolarsan uyatga."
+    },
+    {
+        "id": "170",
+        "english": "Drink, As you brew, so must you.",
+        "uzbek": "O'zing     pishirgan     osh     —\nAylanib ich, o'rgilib ich."
+    },
+    {
+        "id": "171",
+        "english": "Drop  of  poison  infects  the  whole\ntun of wine, One.",
+        "uzbek": "Bir shaharni bir bola buzar."
+    },
+    {
+        "id": "172",
+        "english": "Drunken  days  have  all  their  to- morrrows.",
+        "uzbek": "Mast   bilan   qo'shilib   otimni chopdim,\nOtimni       oldirib       sazomni\ntopdim."
+    },
+    {
+        "id": "173",
+        "english": "E",
+        "uzbek": ""
+    },
+    {
+        "id": "174",
+        "english": "Ear and out at the other, In at one.",
+        "uzbek": "Oqma  quloqqa  aytsang,  oqib\nketar,        Quyma        quloqqa aytsang, quyib olar."
+    },
+    {
+        "id": "175",
+        "english": "Ears  burn,  If  your  /  someone  is\ntalking about you.",
+        "uzbek": "So'zning   yomoni   —   pichir,\nDardning yomoni qichir."
+    },
+    {
+        "id": "176",
+        "english": "Easier said than done.",
+        "uzbek": "Gap bo'lsa — paka-paka,\nIsh bo'lsa — chaka-chaka."
+    },
+    {
+        "id": "177",
+        "english": "Easy to be wise after the event, It\nis.",
+        "uzbek": "Aqling pesh - ishing besh,\nAqling kech — ishing hech."
+    },
+    {
+        "id": "178",
+        "english": "Eat at pleasure, drink by measure.",
+        "uzbek": "Sharobning ozi — dori,\nko'pi — og'u."
+    },
+    {
+        "id": "179",
+        "english": "Eat high off the hog.",
+        "uzbek": "Yaxshi ovqat qolguncha,\nYomon qornim yorilsin."
+    },
+    {
+        "id": "180",
+        "english": "Eat out of smb.'s hand.",
+        "uzbek": "Birovning          qo'lida          ul\nbo'lguncha,   O'z   uyingda   qul bo'l."
+    },
+    {
+        "id": "181",
+        "english": "Eat the fat of the land.",
+        "uzbek": "Arpa yegan ot o'ynar,\nMakka yegan zot o'ynar."
+    },
+    {
+        "id": "182",
+        "english": "Education   begins   a   gentleman,\nconversation completes him.",
+        "uzbek": "Yigit      orif      bo'lsa,      aslini\nso'rama."
+    },
+    {
+        "id": "183",
+        "english": "Empty  purse  that  is  full  of  other\nmen's money, That is but an.",
+        "uzbek": "Kambag'al saxiy bo'lar,\nBoy — baxil."
+    },
+    {
+        "id": "184",
+        "english": "End crowns all, The",
+        "uzbek": "Ishni qilsang, tamom qil."
+    },
+    {
+        "id": "185",
+        "english": "End justifies the means, The.",
+        "uzbek": "Maqsadli bo'lgan yo'l topar."
+    },
+    {
+        "id": "186",
+        "english": "End of the  horn, Come out at the\nlittle",
+        "uzbek": "Ahmoqqa Son tegmas,\nSepdan ishton kiyar"
+    },
+    {
+        "id": "187",
+        "english": "End things will mend, In the.",
+        "uzbek": "Umidingni  uzma,  ko'nglingni\nbuzma."
+    },
+    {
+        "id": "188",
+        "english": "End,  The  longest  day  must  have\nan.",
+        "uzbek": "Har bir ishning oxiri bor,\nНаг qiyinchilikning — oxiri."
+    },
+    {
+        "id": "189",
+        "english": "Enough  to  try  the  patience  of  a\nsaint.",
+        "uzbek": "Sabrli chidar, Sabrsiz yonar."
+    },
+    {
+        "id": "190",
+        "english": "Err is human, То.",
+        "uzbek": "Xato qilmoq bordir,\nTuzatmaslik - ordir."
+    },
+    {
+        "id": "191",
+        "english": "Ethiopian  change   his  skin,  Can\nthe",
+        "uzbek": "Qon bilan kirgan,\njon bilan chiqar."
+    },
+    {
+        "id": "192",
+        "english": "Evening crowns the day, The.",
+        "uzbek": "Har kechaning — kunduzi,\nHar kunduzning kechasi bor."
+    },
+    {
+        "id": "193",
+        "english": "Events  cast  their  shadows  before,\nComing.",
+        "uzbek": "Bo'ladigan     bola      boshidan\nmalum"
+    },
+    {
+        "id": "194",
+        "english": "Every cook praises his own broth",
+        "uzbek": "Har bir oshpaz o‘z sho‘rvasini\nmaqtaydi."
+    },
+    {
+        "id": "195",
+        "english": "Every man has his faults.",
+        "uzbek": "Har      bir      to'kisning      bir\nkamchiligi bor."
+    },
+    {
+        "id": "196",
+        "english": "Everything   comes   to   him   who\nwaits.",
+        "uzbek": "Sabr   etgan   yetar    murodga,\nBesabr qimtinib qolar uyatga"
+    },
+    {
+        "id": "197",
+        "english": "Example is better than precept.",
+        "uzbek": "Ming  shirin   nasihatdan   bitta\no'rnak yaxshi."
+    },
+    {
+        "id": "198",
+        "english": "Experience  is  good,  if not bought\ntoo dear.",
+        "uzbek": "Bosh toshga tegsa,\nAql boshga kelar."
+    },
+    {
+        "id": "199",
+        "english": "Experience    is    the    mother    of\nwisdom.",
+        "uzbek": "Bir sinalgan tajriba\nYetti kitobdan afzal."
+    },
+    {
+        "id": "200",
+        "english": "Experience  keeps  a  dear  school,but fools learn in no other.",
+        "uzbek": "Aqlni ahmoqdan o'rgan."
+    },
+    {
+        "id": "201",
+        "english": "Experience teaches.",
+        "uzbek": "Zamon seni o'qitar, Tayoq bilan cho'qitar Sabog'ingni bilmasang, Do'konda bo'z to'qitar."
+    },
+    {
+        "id": "202",
+        "english": "Extremes meet.",
+        "uzbek": "Ahmoq ahmoqni topar."
+    },
+    {
+        "id": "203",
+        "english": "Eye does not see the heart cannot\ngrieve, What the.",
+        "uzbek": "Ko'z qayerda bo'lsa,\nMehr ham o'sha yerda."
+    },
+    {
+        "id": "204",
+        "english": "Eye  for  on  eye  and  a  tooth  for  a\ntooth, An.",
+        "uzbek": "O'chakishgan      it      qopmay\nqolmas"
+    },
+    {
+        "id": "205",
+        "english": "Eye  sees  not,  What  the/the  heart\nrues not.",
+        "uzbek": "Ko'zdan   nari   —   ko'ngildan\nnari."
+    },
+    {
+        "id": "206",
+        "english": "Eye, Sleep with one/ open.",
+        "uzbek": "Hushyorni yov bosmas,\nYov bossa ham, dov bosmas."
+    },
+    {
+        "id": "207",
+        "english": "Eyes  are  bigger  than  one's  belly,\nOne's",
+        "uzbek": "Ochko'z eshak to'rva teshar."
+    },
+    {
+        "id": "208",
+        "english": "Eyes see more than two, Four.",
+        "uzbek": "Bir bosh - balo bosh,\nIkki bosh — mardona."
+    },
+    {
+        "id": "209",
+        "english": "Face is the index of the heart, The.",
+        "uzbek": "Yuzim    oq    bo'lsin    desang,\nIshingni to'g'ri qil."
+    },
+    {
+        "id": "210",
+        "english": "Face may hide a foul heart, A fair.",
+        "uzbek": "Yuzing   qoraligi   uyat   emas,\nYuziqoralik uyat."
+    },
+    {
+        "id": "211",
+        "english": "Facts are stubborn things.",
+        "uzbek": "Haqiqat qilni qirq yorar."
+    },
+    {
+        "id": "212",
+        "english": "Failing to trust everybody, It is an\nequal/ and to trust nobody.",
+        "uzbek": "Kuf-sufchiga  ishonsang  ham,\n«Xo’p-xo’p»chiga ishonma."
+    },
+    {
+        "id": "213",
+        "english": "Fair play's a jewel",
+        "uzbek": "To'g'rilik to'rga tortar,\nO'g'rilik — go'rga."
+    },
+    {
+        "id": "214",
+        "english": "Fairer  the  hostess,  the  fouler  the reckoning, The.",
+        "uzbek": "Mehmonxonang     tor     bo'lsa\nham,     Mehri     diling     keng bo'lsin."
+    },
+    {
+        "id": "215",
+        "english": "Fall into a snare.",
+        "uzbek": "Aldashga bola yaxshi."
+    },
+    {
+        "id": "216",
+        "english": "Fall, Ride for a.",
+        "uzbek": "O'z aybingni ochsang,\nElning mehri qochar."
+    },
+    {
+        "id": "217",
+        "english": "Fall, Though heaven/ let justice be\ndone.",
+        "uzbek": "Adolat    qilichi    kesgan    qo'l\nog'rimas."
+    },
+    {
+        "id": "218",
+        "english": "Fault  confessed  is  half  redressed,\nA.",
+        "uzbek": "Aybiga    iqror    mard    kishi,\nYashirmoq — qo'rqoq ishi."
+    },
+    {
+        "id": "219",
+        "english": "Fault    once    denied     is    twice\ncommitted, A .",
+        "uzbek": "Mis   qozonning   misi   chiqar,\nBerkitganning isi chiqar."
+    },
+    {
+        "id": "220",
+        "english": "Faults    are    theirs    that   commit them,  The  first/  the  second  theirs that permit them.",
+        "uzbek": "Adashganning      aybi      yo'q, so'rab yo'lini topsa, Ochilganning  aybi  yo'q,  bilib\netagin yopsa."
+    },
+    {
+        "id": "221",
+        "english": "Feast today and fast tomorrow.",
+        "uzbek": "Har kuni yema palovni, Har kuni yoqqin olovni."
+    },
+    {
+        "id": "222",
+        "english": "Finger in the pie, To have a.",
+        "uzbek": "Bilib o'tir o'rningni,\nHar yerga suqma burningni."
+    },
+    {
+        "id": "223",
+        "english": "Finger off than aye wagging, Better a.",
+        "uzbek": "Bo'ladigan    ishning    bo'lgani yaxshi,\nUydagilarning tingani yaxshi."
+    },
+    {
+        "id": "224",
+        "english": "Fingers, Have light.",
+        "uzbek": "Qo'li qing'irning dili qing'ir."
+    },
+    {
+        "id": "225",
+        "english": "Fire  and  water are  good  servants,\nbut bad masters.",
+        "uzbek": "Olov       bilan       o'ynashsang,\noqibatda kuyarsan."
+    },
+    {
+        "id": "226",
+        "english": "Fire and water, Go through.",
+        "uzbek": "Achchiq      bilan      chuchukni totgan     bilar,     Uzoq     bilan\nyaqinni-yurgan."
+    },
+    {
+        "id": "227",
+        "english": "Fire into the wrong flock",
+        "uzbek": "Anglamay tushdim tangga,\nEndi menga soy qayda."
+    },
+    {
+        "id": "228",
+        "english": "Fire that's closest kept burns most\nof all.",
+        "uzbek": "Kasalni yashirsang,\nO'lim oshkora qilar."
+    },
+    {
+        "id": "229",
+        "english": "Fire, A burnt child dreads the.",
+        "uzbek": "Olovdan    qo'rqqan    tutundan\nham qochar."
+    },
+    {
+        "id": "230",
+        "english": "First   catch   your   hare   and   then\ncook it.",
+        "uzbek": "Borishda maqtanma,\nkelishda maqtan."
+    },
+    {
+        "id": "231",
+        "english": "First come, first served.",
+        "uzbek": "Erta     borsang,     et     pishar,\nKechga qolsang, bet pishar."
+    },
+    {
+        "id": "232",
+        "english": "First think, and then speak",
+        "uzbek": "Avval o'yla, keyin so'yla"
+    },
+    {
+        "id": "233",
+        "english": "Fish in a little pond, A big.",
+        "uzbek": "Kichiklarning   kattasi   bo'lma,\nKattalarning kichigi bo'l."
+    },
+    {
+        "id": "234",
+        "english": "Fish to catch a great one, Venture\na small.",
+        "uzbek": "Saxiyning qo'li ochiq,\nQo'li ochiqning yo'li ochiq."
+    },
+    {
+        "id": "235",
+        "english": "Fish to fry, I have other.",
+        "uzbek": "Bermasning bahonasi ko'p."
+    },
+    {
+        "id": "236",
+        "english": "Fish, Cry stinking.",
+        "uzbek": "Uydagi  sirni  ko'chada  aytma,\nKo'chada aytib, g'amini tortma"
+    },
+    {
+        "id": "237",
+        "english": "Fish,  It  is  a  silly/that  is  caught twice with the same bait.",
+        "uzbek": "Zamon seni o'qitar, Tayoq bilan so'qitar. Sabog'ingni bilmasang,\nDo'konda bo'z to'qitar."
+    },
+    {
+        "id": "238",
+        "english": "Fishing in troubled waters,\nIt is good.",
+        "uzbek": "Loy ichidan dur ajrat.\nLoy ichidan dur ajrat."
+    },
+    {
+        "id": "239",
+        "english": "Fleas,   Nothing   must   be   done\nhastily but killing of.",
+        "uzbek": "Shoshgan pashsha sutga tushar"
+    },
+    {
+        "id": "240",
+        "english": "Flesh, Be one.",
+        "uzbek": "Er-xotin — qo'sh ho'kiz."
+    },
+    {
+        "id": "241",
+        "english": "Fly on the wheel, A.",
+        "uzbek": "Manmanlikni              netarsan,\nObro'yingdan ketarsan."
+    },
+    {
+        "id": "242",
+        "english": "Fly on the wheel, To break a.",
+        "uzbek": "Igna    bilan    bitadigan    ishga\njuvoldiz tiqma."
+    },
+    {
+        "id": "243",
+        "english": "Fog  cannot  be  dispelled  with  a fan, A.",
+        "uzbek": "Behuda      urinsang,      poyoni bo'lmas,     O'ylanib     qilsang,\nziyoni bo'lmas."
+    },
+    {
+        "id": "244",
+        "english": "Folks have the least leisure, Idle.",
+        "uzbek": "Dangasaning     ishi     bo'lmas,\nYoz kelsa ham, qishi bitmas."
+    },
+    {
+        "id": "245",
+        "english": "Folks lack no excuses, Idle.",
+        "uzbek": "Dangasaning        vaji       ko'p,\nOhangsizning — avji."
+    },
+    {
+        "id": "246",
+        "english": "Folly is wise in her own eyes.",
+        "uzbek": "Ahmoq aql o'rgatar."
+    },
+    {
+        "id": "247",
+        "english": "Fool    according    to    his    folly,\nAnswer a.",
+        "uzbek": "Ahmoqni urma-so'kma,\ngapga sol."
+    },
+    {
+        "id": "248",
+        "english": "Fool always rushes to the fore, A.",
+        "uzbek": "Ahmoq uyining to'rini bermas, Qayta       unikiga       mehmon\nkelmas."
+    },
+    {
+        "id": "249",
+        "english": "Fool always, None is a /every one sometimes.",
+        "uzbek": "Birovning    holiga    kulmagin zinhor,\nSening         holingga         ham\nkulguvchilar bor."
+    },
+    {
+        "id": "250",
+        "english": "Fool   and   his   money   are   soon\nparted, A.",
+        "uzbek": "Ahmoqniki       —        og'zida,\nPodshoniki — g'aznada."
+    },
+    {
+        "id": "251",
+        "english": "Fool  does  think  he  is  wise,  The/\nbut  the  wise  man  knows  himself to be a fool.",
+        "uzbek": "Dono aql so'rab hormas, Nodon nozin qilib bormias."
+    },
+    {
+        "id": "252",
+        "english": "Fool is known by his laughing, A.",
+        "uzbek": "Ahmoq o'zi so'zlab, o'zi kular."
+    },
+    {
+        "id": "253",
+        "english": "Fool  is  never  cured,  He  who  is born.",
+        "uzbek": "Ahmoqning       boshiga       aql yopishtirib qo'ysang,\nQo'li bilan ko'chirib tashlaydi."
+    },
+    {
+        "id": "254",
+        "english": "Fool like an old fool, No.",
+        "uzbek": "Ahmoq  qarimas,  Qarisa  ham,\nahmoqligi arimas."
+    },
+    {
+        "id": "255",
+        "english": "Fool makes many, One.",
+        "uzbek": "Ahmoq    elchi    ikki    tarafni\nbuzar."
+    },
+    {
+        "id": "256",
+        "english": "Fool  may  ask  more  questions  in\nan   hour   than   a   wise   man   can answer in seven years, A",
+        "uzbek": "Ahmoqning       o'z       bilgani, Gapirmasa o'lgani."
+    },
+    {
+        "id": "257",
+        "english": "Fool    may    give    a    wise    man\ncounsel, A.",
+        "uzbek": "Ahmoq so'zlar, aqlli tinglar."
+    },
+    {
+        "id": "258",
+        "english": "Fool  may  throw  a  stone  into  a\nwell  which  a  hundred  wise  men cannot pull out, A.",
+        "uzbek": "Bitta    ahmoq   quduqqa    tosh tashlasa,\nO'nta aqllini ovora qiladi."
+    },
+    {
+        "id": "259",
+        "english": "Fool that forgets himself, He is a",
+        "uzbek": "Ahmoq og'zidagini oldirar."
+    },
+    {
+        "id": "260",
+        "english": "Fool  thinks,   As   the/so   the   bell\nclinks.",
+        "uzbek": "Ahmoqning       o'z       bilgani\nGapirmasa — o'lgani."
+    },
+    {
+        "id": "261",
+        "english": "Fool to the market, Send a / and a fool he'll return.",
+        "uzbek": "Ahmoqqa   aytgan   bilan   gap\nuqmas,     Xarsangga     qoqqan bilan mix o'tmas."
+    },
+    {
+        "id": "262",
+        "english": "Fool wanders,  The/ the  wise  men\ntravels.",
+        "uzbek": "Donoga ish — shon-u shuhrat,\nNodonga ish — g'am-u kulfat."
+    },
+    {
+        "id": "263",
+        "english": "Fool when  he  is  silent  is  counted\nwise, A.",
+        "uzbek": "Ahmoq  —  ko'zidan  ma’lum,\nSo'zlasa — so'zidam ma’lum."
+    },
+    {
+        "id": "264",
+        "english": "Fool will be meddling, Every",
+        "uzbek": "Ahmoqdan so'rama, o'zi aytar."
+    },
+    {
+        "id": "265",
+        "english": "Fools  make  feasts  and  wise  men\neat them.",
+        "uzbek": "Aqli kalta pand yeydi,\nAqli teran — qand."
+    },
+    {
+        "id": "266",
+        "english": "Fools rush in where angels fear to\ntread.",
+        "uzbek": "Ahmoqni    charchatar    oyoq,\nAhmoqning davosi tayoq."
+    },
+    {
+        "id": "267",
+        "english": "Fools went not to market, If / bad\nwares would not be sold.",
+        "uzbek": "Bozordagi    botmon    quyruq,\nTaroziga tortgan quyruq."
+    },
+    {
+        "id": "268",
+        "english": "Fools will be fools.",
+        "uzbek": "Ahmoq    otdan    tushsa    ham,\nEgardan tushmas."
+    },
+    {
+        "id": "269",
+        "english": "Foot  by  one's  own  last,  Measure\nanother man's.",
+        "uzbek": "O'zga   mushtini   yemagan  o'z\nmushtini botmon der."
+    },
+    {
+        "id": "270",
+        "english": "Foot in both camps, Have a.",
+        "uzbek": "Six ham kuymasin,\nKabob ham kuymasin."
+    },
+    {
+        "id": "271",
+        "english": "Forbidden fruit is sweetest.",
+        "uzbek": "Qo'shnining      tovug'i      g'oz\nko'rinar, Kelinchagi — qiz."
+    },
+    {
+        "id": "272",
+        "english": "Forgive and forget.",
+        "uzbek": "Yomonlikni    vaxshilik    bilan\nyeng."
+    },
+    {
+        "id": "273",
+        "english": "Friar   preached   against   stealing\nand had a goose in his sleeve The.",
+        "uzbek": "Mullani aytganini qil,\nqilganini qilma."
+    },
+    {
+        "id": "274",
+        "english": "Friend  eat  a  bushel  of  salt  with\nhim, Before you choose",
+        "uzbek": "Do'st safarda bilinar,\nOg'a-ini — kulfatda."
+    },
+    {
+        "id": "275",
+        "english": "Friends   and   old   wine   are   best,\nOld.",
+        "uzbek": "Kiyimning     yangisi     yaxshi,\nDo'stning — eskisi."
+    },
+    {
+        "id": "276",
+        "english": "Friends    are    worse    than   bitter (open) enemies, False.",
+        "uzbek": "Bostirmadan    ayvon    yaxshi,\nYomon      do'stdan      hayvon yaxshi."
+    },
+    {
+        "id": "277",
+        "english": "Friendship cannot stand always on\none side.",
+        "uzbek": "Qars ikki qo'ldan chiqadi."
+    },
+    {
+        "id": "278",
+        "english": "Friendship is not to be bought at a\nfair.",
+        "uzbek": "Do'stlik      oltinga      sotilmas,\nMehmon — pulga."
+    },
+    {
+        "id": "279",
+        "english": "Frog in a big pond, A little",
+        "uzbek": "Kattalarning                  kichigi bo’lguncha,        Kichiklarning\nkenjasi bo'l."
+    },
+    {
+        "id": "280",
+        "english": "full of courtesy, full of craft.",
+        "uzbek": "Xushmuomalali mingni uribdi,\nTayog'i yo'g'on birni uribdi."
+    },
+    {
+        "id": "281",
+        "english": "Full to the gills.",
+        "uzbek": "Xurmachangga siqqanicha ich."
+    },
+    {
+        "id": "282",
+        "english": "Gain  is  to  lose,  Sometimes  the\nbest.",
+        "uzbek": "Ko'pga yugurgan ozdan qolar."
+    },
+    {
+        "id": "283",
+        "english": "Gains never prosper, Ill-gotten.",
+        "uzbek": "Harom molning barakasi yo'q."
+    },
+    {
+        "id": "284",
+        "english": "Geese are swans, All his.",
+        "uzbek": "Maqtanma g'oz, hunaring oz!"
+    },
+    {
+        "id": "285",
+        "english": "Gentleman that pays the rent, The.",
+        "uzbek": "Nasiya yema go'shtni,\nTeshib chiqar to'shni."
+    },
+    {
+        "id": "286",
+        "english": "Ghost, Look like а.",
+        "uzbek": "O'lik bo'lib go'rda yo'q,\nTirik bolib sonda yo'q."
+    },
+    {
+        "id": "287",
+        "english": "Ginger shall be hot in the mouth.",
+        "uzbek": "Mazali          so'zga          quloq\ncharchamas."
+    },
+    {
+        "id": "288",
+        "english": "Give as good as one gets.",
+        "uzbek": "Nima sochsang, shuni o'rasan."
+    },
+    {
+        "id": "289",
+        "english": "Give him an inch and hell take an\nell.",
+        "uzbek": "Insof bilan qo'l uzatsang,\nNoinsof yelkanggacha chiqar."
+    },
+    {
+        "id": "290",
+        "english": "Give the devil his due",
+        "uzbek": "Dushmanni kuchsiz  hisoblasa,\nboshga balo bo'lur."
+    },
+    {
+        "id": "291",
+        "english": "Gives  twice  who  gives  quickly,\nHe.",
+        "uzbek": "Berganning yuzi yorug',\nBermaganning yuzi choriq."
+    },
+    {
+        "id": "292",
+        "english": "Glass houses, People who live in /\nshould never throw stones.",
+        "uzbek": "Birovga kesak otsang,\nU senga tosh otadi."
+    },
+    {
+        "id": "293",
+        "english": "Gluttony    kills    more    than    the\nsword.",
+        "uzbek": "Ochofat  tishi  bilan  o'ziga  go'r\nqazir."
+    },
+    {
+        "id": "294",
+        "english": "Go farther and fare worse.",
+        "uzbek": "Boriga rozi bo'l, Yo'g'iga sabr\nqil."
+    },
+    {
+        "id": "295",
+        "english": "God    helps    them,    who    help\nthemselves.",
+        "uzbek": "Sen o'zingni asrasang,\nSeni Xudo asrar."
+    },
+    {
+        "id": "296",
+        "english": "God send me a friend that will tell me of my faults.",
+        "uzbek": "Do'st achitib so'zlar, Dushman — kuldirib."
+    },
+    {
+        "id": "297",
+        "english": "Gold that glitters, All is not.",
+        "uzbek": "Zarhal   ko'rinar   soxta,   Awal\nbilib so'ng maqta."
+    },
+    {
+        "id": "298",
+        "english": "Gold, Gild refined.",
+        "uzbek": "Behuda harakat beburd qilar."
+    },
+    {
+        "id": "299",
+        "english": "Good against evil, Set.",
+        "uzbek": "Yomonlikka      yaxshilik      er kishining ishidir,\nYomonlikka     yomonlik     har\nkishining ishidir."
+    },
+    {
+        "id": "300",
+        "english": "Good and quickly seldom meet.",
+        "uzbek": "Tez bitgan tez yitar"
+    },
+    {
+        "id": "301",
+        "english": "Good   beginning   makes   a   good\nending, A.",
+        "uzbek": "Ishimning boshi yoq,\nOshimning moshi yoq."
+    },
+    {
+        "id": "302",
+        "english": "Good example is the best sermon,\nA",
+        "uzbek": "Ming shirin nasihatdan,\nBitta o'rnak yaxshi."
+    },
+    {
+        "id": "303",
+        "english": "Good  to  wont  and  to  have,  It  is not.",
+        "uzbek": "Nafsini   tiygan   kishi   sulton\nbo'lur,  Nafsini  tiymagan  kishi ulton bo'lur."
+    },
+    {
+        "id": "304",
+        "english": "Good turn deserves another, One.",
+        "uzbek": "Yaxshilik   qilsang,   yaxshilik qaytar,\nYomonlik         qilsang         —\nyomonlik."
+    },
+    {
+        "id": "305",
+        "english": "Good wife makes a good husband,\nA.",
+        "uzbek": "Erni er qiladigan ham xotin,\nQora yer qiladigan ham xotin."
+    },
+    {
+        "id": "306",
+        "english": "Goose  that  laid  the  golden  eggs,\nKill the.",
+        "uzbek": "O'zing suv ichadigan quduqqa\ntupurma."
+    },
+    {
+        "id": "307",
+        "english": "Goose, Cook own.",
+        "uzbek": "O'z   oyog'ingga   o'zing   bolta\nurma"
+    },
+    {
+        "id": "308",
+        "english": "Gossiping  and  lying  go  hand  in hand.",
+        "uzbek": "G'iybatchining dili kir, G'ar-o'g'rining tili bir."
+    },
+    {
+        "id": "309",
+        "english": "Grain, Against the.",
+        "uzbek": "Aytishsang      so'z      chiqadi,\nTurtishsang — ko'z"
+    },
+    {
+        "id": "310",
+        "english": "Grandmother to suck eggs, Teach\none's.",
+        "uzbek": "Ahmoq aql o'rgatar."
+    },
+    {
+        "id": "311",
+        "english": "Grasp the nettle and it won't sting\nyou.",
+        "uzbek": "Mard yo'lida g'ov bo'lsa,\nBir hamlada dov bermas."
+    },
+    {
+        "id": "312",
+        "english": "Grass  grow  under  one's  feet,  Let\nthe.",
+        "uzbek": "Vaqting    ketdi    —    baxting\nketdi."
+    },
+    {
+        "id": "313",
+        "english": "Grass   grows   the   horse   starves, While the.",
+        "uzbek": "Paysalga soladigan saxiydan,\nTez    javob    beradigan    baxil yaxshi."
+    },
+    {
+        "id": "314",
+        "english": "Grave, Silent as the.",
+        "uzbek": "Indamasang,   uyday   balodan\nqutulasan."
+    },
+    {
+        "id": "315",
+        "english": "Great minds think alike.",
+        "uzbek": "Olim aytgani — olam aytgani,\nPodsho     aytgani     —     yurt aytgani."
+    },
+    {
+        "id": "316",
+        "english": "Great talkers are great liars.",
+        "uzbek": "Serva'da      kishi      yolg'onchi\nbo'lar."
+    },
+    {
+        "id": "317",
+        "english": "Great talkers are little doers.",
+        "uzbek": "Gap desang — qop-qop,\nIsh  desang  —  Samarqanddan top."
+    },
+    {
+        "id": "318",
+        "english": "Greater the truth, The/ the greater\nthe libel",
+        "uzbek": "Da'vogaring xon bo'lsa,\nArzingni Allohga ayt."
+    },
+    {
+        "id": "319",
+        "english": "Greek  meets  Greek,  When  /  then\ncomes the tug of war.",
+        "uzbek": "Donxonada                   sichqon\nchiqisholmas."
+    },
+    {
+        "id": "320",
+        "english": "  Grist that comes to his mill, All is.",
+        "uzbek": "    Abjir boyisa farzanding,                /// cho'ldan  //terar, Yalqov bo'lsa /  ////farzanding, //yerdan don termas."
+    },
+    {
+        "id": "321",
+        "english": "Grist to the mill, To bring.",
+        "uzbek": "Birov     o'lmay,     birov     kun\nko'rmas"
+    },
+    {
+        "id": "322",
+        "english": "Ground, Be on one's own.",
+        "uzbek": "O'z   o'rnini  bilmagan  o'rinsiz\nqolar."
+    },
+    {
+        "id": "323",
+        "english": "Gutter, Be born in the.",
+        "uzbek": "Yetim o'z kindigini o'zi kesar."
+    },
+    {
+        "id": "324",
+        "english": "  Hair about the heels.",
+        "uzbek": "Yaxshi qiz erta turib soch tarar, Yomon qiz erta turib non so'rar."
+    },
+    {
+        "id": "325",
+        "english": "  Hair and short wit, Long.",
+        "uzbek": "Aqlli boshda soch turmas."
+    },
+    {
+        "id": "326",
+        "english": "  Half is more than the whole,The.",
+        "uzbek": "Oz oshagan moy oshar,Ko'p oshagan loy oshar. "
+    },
+    {
+        "id": "327",
+        "english": "  Halves, Never do things by.",
+        "uzbek": "Chalasavodning tagidan chirigi chiqar."
+    },
+    {
+        "id": "328",
+        "english": "  Hamlet without the Prince of Denmark.",
+        "uzbek": "Ma'ni yo'q gap — doni yo'q cho'p."
+    },
+    {
+        "id": "329",
+        "english": "  Hammer and anvil, Between",
+        "uzbek": "Osmon — yiroq, yer — qattiq"
+    },
+    {
+        "id": "330",
+        "english": "  Hand and a warm heart, A cold.",
+        "uzbek": "Sovug'ing oshsa — davlatdir, Issig'ing oshsa — qiyomatdir."
+    },
+    {
+        "id": "331",
+        "english": "  Hand at smth., A crack.",
+        "uzbek": "Hunarli qo'l och qolmas."
+    },
+    {
+        "id": "332",
+        "english": "  Hand between the bark and the tree, Put       //not your,",
+        "uzbek": "Er-u xotin urishar, Nodon o'rtaga tushar."
+    },
+    {
+        "id": "333",
+        "english": "  Hand does, Not to let one's left hand //know what one's right.",
+        "uzbek": "O'ng qo'ling bersin, Chap qo'ling bilmasin."
+    },
+    {
+        "id": "334",
+        "english": "  Hand is no lure for a hawk, An empty",
+        "uzbek": "Quruq qo'lga qush qo'nmas."
+    },
+    {
+        "id": "335",
+        "english": "  Hand that feeds one, Bite the.",
+        "uzbek": "Ko'r bo'lsang ham, ko'rnamak bo'lma"
+    },
+    {
+        "id": "336",
+        "english": "  Hand, An open.",
+        "uzbek": "Qo'li ochiqning yo'li ochiq."
+    },
+    {
+        "id": "337",
+        "english": " Handful of good life is better than a //bushel of learning, A.",
+        "uzbek": "Qorni to'qning qayg'usi yo'q."
+    },
+    {
+        "id": "338",
+        "english": "  Hands of smb.,Wash one's.",
+        "uzbek": "Nomarddan najot kutma, ltdan - hojat."
+    },
+    {
+        "id": "339",
+        "english": "Handsome  at  twenty,  He  that  is not / not strong at thirty,  nor rich at  forty,  nor  wise  at  fifty,  will never be handsome, strong, rich or\nwise.",
+        "uzbek": "Bo'ladigan     bola      boshidan ma’lum."
+    },
+    {
+        "id": "340",
+        "english": "Handsome is that handsome does.",
+        "uzbek": "Ishing bo'lsa sharofat,\nHech ko'rmaysan kasofat."
+    },
+    {
+        "id": "341",
+        "english": "Hanged for a sheep as a lamb, As\ngood be",
+        "uzbek": "O'g'irlik   solsang   qo'yningga,\nSirtmoq tushar bo'yningga."
+    },
+    {
+        "id": "342",
+        "english": "Hard as a Flint /stone/,As.",
+        "uzbek": "Tosh yurak tog'ni talqon qilar."
+    },
+    {
+        "id": "343",
+        "english": "Hard cases make bad law.",
+        "uzbek": "Qiyindan qochma,\nyo'ldan adashma."
+    },
+    {
+        "id": "344",
+        "english": "Hare  and  hunt  with  the  hounds,\nRun with the.",
+        "uzbek": "Ikki     tarvuz     bir     qo'ltiqqa\nsig'mas."
+    },
+    {
+        "id": "345",
+        "english": "Hares  may pull dead  lions  by the\nbeard.",
+        "uzbek": "Qo'rqoqning         odati         —\nmaqtanmoq."
+    },
+    {
+        "id": "346",
+        "english": "Haste makes waste.",
+        "uzbek": "Shoshqaloq  to'g'ramchi  qo'lini\nkesar."
+    },
+    {
+        "id": "347",
+        "english": "Haste slowly, Make.",
+        "uzbek": "Shoshmagan   arava   quyonga\nyetar"
+    },
+    {
+        "id": "348",
+        "english": "Haste,  Marry  in  /  and  repent  at\nleisure.",
+        "uzbek": "Shoshgan      pashsha       sutga\ntushar."
+    },
+    {
+        "id": "349",
+        "english": "Hasty climbers have sudden falls.",
+        "uzbek": "Shoshding,    jarga    qulading,\nShoshmading, niyatga yetding."
+    },
+    {
+        "id": "350",
+        "english": "Hat, I'll eat my.",
+        "uzbek": "Yolg'onchining guvohi qasam."
+    },
+    {
+        "id": "351",
+        "english": "Haul over the coals, To.",
+        "uzbek": "Qilmish — qidirmish."
+    },
+    {
+        "id": "352",
+        "english": "Hawks  will  not  pick  hawk's  eyes\nout.",
+        "uzbek": "Qarg'a      qarg'aning      ko'zini\ncho'qimas."
+    },
+    {
+        "id": "353",
+        "english": "He that lies down with dogs must rise up with fleas.",
+        "uzbek": "Yaxshiga             yondashsang, yetarsan murodga,\nYomonga            yondashsang,\nqolarsan uyatga."
+    },
+    {
+        "id": "354",
+        "english": "Head  in  the  air,  Go  about  with\none's",
+        "uzbek": "Kekkayish terakka yarashar."
+    },
+    {
+        "id": "355",
+        "english": "Head like a sieve, Have а",
+        "uzbek": "Esi pastning ishi past."
+    },
+    {
+        "id": "356",
+        "english": "Head  on  young  shoulders,  Have\nan old.",
+        "uzbek": "Aql yoshda emas, boshda."
+    },
+    {
+        "id": "357",
+        "english": "Heads are better than one, Two.",
+        "uzbek": "Bir kalla — kalla,\nIkki kalla - tilla."
+    },
+    {
+        "id": "358",
+        "english": "Hear all parties",
+        "uzbek": "Avval kuzat, keyin tuzat."
+    },
+    {
+        "id": "359",
+        "english": "Hear much, speak little.",
+        "uzbek": "Og'zingni                ochguncha,\nko'zingni och."
+    },
+    {
+        "id": "360",
+        "english": "Hear twice before you speak once.",
+        "uzbek": "Avval o'yla, keyin so'yla."
+    },
+    {
+        "id": "361",
+        "english": "Hell   and   Chancery   are   always\nopen.",
+        "uzbek": "Qoziga bolta berma, pora ber."
+    },
+    {
+        "id": "362",
+        "english": "Hen with one chick, As a",
+        "uzbek": "Hovliqqanga   sichqon   teshigi\nming tanga."
+    },
+    {
+        "id": "363",
+        "english": "Here to-day and gone to-morrow.",
+        "uzbek": "Qo'nimi yo'qning unumi yo'q."
+    },
+    {
+        "id": "364",
+        "english": "Hesitates is lost, He who.",
+        "uzbek": "O'ychi      o'yiga      yetguncha,\nTavakkalchi suvdan o'tar."
+    },
+    {
+        "id": "365",
+        "english": "Higher  up,  The/  the  greater  the\nfall.",
+        "uzbek": "Manmanga — zavol,\nyomonga — ajal."
+    },
+    {
+        "id": "366",
+        "english": "Hit or miss.",
+        "uzbek": "Yo dong'ing chiqsin, yo changing."
+    },
+    {
+        "id": "367",
+        "english": "Hog in armour, A.",
+        "uzbek": "Eshakka  atlas  to'qim  yopsang\nham, baribir eshak."
+    },
+    {
+        "id": "368",
+        "english": "Hold a candle to the devil, To.",
+        "uzbek": "Yomon baliq suv loyqatar."
+    },
+    {
+        "id": "369",
+        "english": "Honest  man's  word  is  as  good  as\nbis bond, An.",
+        "uzbek": "Rost gap — haq gap,\nHaq gap — naqd gap."
+    },
+    {
+        "id": "370",
+        "english": "Honest   men   merry   soon,   wise\nones not at all.",
+        "uzbek": "Yigit bo'lsang, sho'x bo'l,\nSho'x bo'lmasang, yo'q bo'l."
+    },
+    {
+        "id": "371",
+        "english": "Honesty is the best policy.",
+        "uzbek": "Halol  mehnat  —  yaxshi  odat,\nBerur senga saodat."
+    },
+    {
+        "id": "372",
+        "english": "Honour among thieves, There is.",
+        "uzbek": "O'g'ri o'g'riga xolavachcha."
+    },
+    {
+        "id": "373",
+        "english": "Honours change manners.",
+        "uzbek": "Shuxratparast     —     hamisha\npastkash."
+    },
+    {
+        "id": "374",
+        "english": "Hope  for the best and prepare  for\nthe worst.",
+        "uzbek": "Yaxshilik  –  yog‘och  boshida,\nYomonlik oyoq ostida."
+    },
+    {
+        "id": "375",
+        "english": "Hope  for the best and prepare  for\nthe worst.",
+        "uzbek": "Yaxshilik — yog'och boshida,\nYomonlik oyoq ostida."
+    },
+    {
+        "id": "376",
+        "english": "Horse  that  never stumbles,  It  is  a good.",
+        "uzbek": "Otning       yaxshisi       tizidan ma'lum,   Odamning   yaxshisi\n— so'zidan."
+    },
+    {
+        "id": "377",
+        "english": "Horse  to the  water,  You can  take\na/but you cannot make him drink.",
+        "uzbek": "Zo'r   bilan   ochilgan   gulning\nhidi bo'lmas."
+    },
+    {
+        "id": "378",
+        "english": "Horse while another may not look over a hedge, One  man may steal a.",
+        "uzbek": "Beraman       degan       quliga, Chiqarib      qo'yadi      yo'liga. Olaman degan qulidan,  Tortib\noladi qo'lidan."
+    },
+    {
+        "id": "379",
+        "english": "Hour is that before the dawn, The darkest.",
+        "uzbek": "O'ttiziga chidagan O'ttiz biriga ham chidar."
+    },
+    {
+        "id": "380",
+        "english": "Hour of pain is as long as a day of\npleasure, An.",
+        "uzbek": "Jahl   bilan   qartayasan,   Kulgi\nbilan yasharasan"
+    },
+    {
+        "id": "381",
+        "english": "Hour  to-day,  One  /  is  worth  tvvo\nto-morrow.",
+        "uzbek": "Bugungi  ishni  ertaga  qo'yma,\nErtaning ham o'z ishi bor."
+    },
+    {
+        "id": "382",
+        "english": "Husk from the grain, Separate the.",
+        "uzbek": "Yaxshini bil o'zidan, Yomonni\nbil ko'zidan."
+    },
+    {
+        "id": "383",
+        "english": "Ignorance  is  bliss  'tis  folly  to  be wise, Where.",
+        "uzbek": "Bilaman   dedim   —   tutildim.\nBilmayman        dedim        — qutuldim."
+    },
+    {
+        "id": "384",
+        "english": "Ill doers are ill thinkers.",
+        "uzbek": "O'ylab  qilingan  ish  —  bitar,\nO'ylamay qilingan ish — yitar."
+    },
+    {
+        "id": "385",
+        "english": "Ill gotten, ill spent.",
+        "uzbek": "Haromdan    kelgan    haromga\nketar."
+    },
+    {
+        "id": "386",
+        "english": "Inch is as good as an ell, An.",
+        "uzbek": "Kichigi — chaqmoq,\nkattasi — ahmoq."
+    },
+    {
+        "id": "387",
+        "english": "Innocent as a babe unborn.",
+        "uzbek": "Toza qalbda dog' bolmas."
+    },
+    {
+        "id": "388",
+        "english": "Invention breeds invention.",
+        "uzbek": "Bilimlining      bilimi      yuqar,\nBilimsizning nimasi yuqar."
+    },
+    {
+        "id": "389",
+        "english": "Iron hand in a velvet glove, An.",
+        "uzbek": "Yuvosh it hurmay tishlar."
+    },
+    {
+        "id": "390",
+        "english": "Iron, Strike while the / is hot.",
+        "uzbek": "Temirni qizig'ida ur,\nTandirni qizig'ida bos."
+    },
+    {
+        "id": "391",
+        "english": "It   is   a   good   horse   that   never stumbles.",
+        "uzbek": "Otning        yaxshisi        izidan\nma’lum,  odamning  yaxshisi  - so‘zidan."
+    },
+    {
+        "id": "392",
+        "english": "It is always in season for old man\nto learn.",
+        "uzbek": "O'qishning erta-kechi yo'q."
+    },
+    {
+        "id": "393",
+        "english": "It  is  an  ill bird  that  fouls  its  own\nnest.",
+        "uzbek": "Suvni         ich,         chashmani\nbulg'atma."
+    },
+    {
+        "id": "394",
+        "english": "It is easy to swim' if another holds\nyour head.",
+        "uzbek": "Ahil ishlasang ish bitar,\nHar mushkul oson bo'lar."
+    },
+    {
+        "id": "395",
+        "english": "It is no use pumping a dry well.",
+        "uzbek": "Behuda      urinsang      poyoni\nbo'lmas,     O'ylanib     qilsang, ziyoni bo'lmas."
+    },
+    {
+        "id": "396",
+        "english": "It's    a    poor    heart    that    never\nrejoices.",
+        "uzbek": "Kulmaganga kulmasang,\nko'ngli qolar."
+    },
+    {
+        "id": "397",
+        "english": "It's  poor  mouse  that has  only one\nhole.",
+        "uzbek": "Ehtiyoting bo'lsa,\nehtiyojing bo'lmas."
+    },
+    {
+        "id": "398",
+        "english": "Jack of all trades",
+        "uzbek": "Bir yigitga yetmish hunar oz."
+    },
+    {
+        "id": "399",
+        "english": "Jack  of  all  trades  and  master  of\nnone.",
+        "uzbek": "Yuz hunarni chala bilgandan,\nBir hunarni tola bil."
+    },
+    {
+        "id": "400",
+        "english": "Jackdaw in peacock's feathers.",
+        "uzbek": "Eshak        maqtanib        tulpor\nbo'lmas,      Qarg'a      maqtanib shunqor bo'lmas."
+    },
+    {
+        "id": "401",
+        "english": "Jest than a friend, Better lose a.",
+        "uzbek": "Hazil, hazilning tagi zil."
+    },
+    {
+        "id": "402",
+        "english": "Jest with edged tools.",
+        "uzbek": "Olov bilan o'ynashsang,\noqibati kuyarsan."
+    },
+    {
+        "id": "403",
+        "english": "Jest,  Many a  true  word  is  spoken\nin.",
+        "uzbek": "Hazil edi, chin bo'ldi,\nO'ynash edi, er bo'ldi."
+    },
+    {
+        "id": "404",
+        "english": "Job, As patient as.",
+        "uzbek": "Sabr tagi — rahmon,\nShoshgan — ishi shayton."
+    },
+    {
+        "id": "405",
+        "english": "Juice, Stew in one's own.",
+        "uzbek": "O'zing     pishirgan     osh     —\nAylanib ich, o'rgilib ich."
+    },
+    {
+        "id": "406",
+        "english": "Keep  one's  tongue  between  one's\nteeth, To.",
+        "uzbek": "Til suyaksiz, tish-qal'a,\nTil yomoni — bir balo."
+    },
+    {
+        "id": "407",
+        "english": "Keep  your  mouth  shut  and  you\neyes open.",
+        "uzbek": "Og'zingni ochguncha,\nko'zingni och."
+    },
+    {
+        "id": "408",
+        "english": "Keep  your  mouth  shut  and  your\nears open.",
+        "uzbek": "Oz so'zla, ko'p tingla."
+    },
+    {
+        "id": "409",
+        "english": "Kettle calls the pot black, The.",
+        "uzbek": "Yirtiq    og'iz    tirtiq    og'izga\nkulibdi."
+    },
+    {
+        "id": "410",
+        "english": "Kill  not  the  goose  that  lays  the\ngolden eggs.",
+        "uzbek": "O'zing suv ichadigan quduqqa\ntupurma."
+    },
+    {
+        "id": "411",
+        "english": "Kind, Answer in.",
+        "uzbek": "Salomga qarab alik."
+    },
+    {
+        "id": "412",
+        "english": "Kings   go   mad,   and   the   people suffer for it.",
+        "uzbek": "Podsho    zolim    bo'lsa,    yurt\nto'zar, Podsho olim bo'lsa, yurt o'zar."
+    },
+    {
+        "id": "413",
+        "english": "Kiss and.be the friends.",
+        "uzbek": "Dushmanni musht bilan urma,\nosh bilan ur."
+    },
+    {
+        "id": "414",
+        "english": "Knaves   an   d   fools   divide   the\nworld.",
+        "uzbek": "Ahmoq      oyog'idan      ilinar,\nMug'ombir — tovonidan ."
+    },
+    {
+        "id": "415",
+        "english": "Knows  nothing,  He  that/  doubts\nnothing.",
+        "uzbek": "O'zim bilaman degan o'lar,\nKo'p bilaman degan qular."
+    },
+    {
+        "id": "416",
+        "english": "Labour of love, А.",
+        "uzbek": "Ish qilsang, xayrli qil."
+    },
+    {
+        "id": "417",
+        "english": "Labour, idle folk have the most.",
+        "uzbek": "Dangasaning ishi bitmas,\nYoz kelsa ham, qishi bitmas."
+    },
+    {
+        "id": "418",
+        "english": "Ladder must begin at the bottom/.\nHe who would climb the.",
+        "uzbek": "Har bir ishning chamasi bor,\nHar daryoning kemasi bor."
+    },
+    {
+        "id": "419",
+        "english": "Lamp, Rub Aladdin's.",
+        "uzbek": "Har    afsona    tagida    —    bir\ndurdona."
+    },
+    {
+        "id": "420",
+        "english": "Language is the dress of thought.",
+        "uzbek": "Til — aql bezagi."
+    },
+    {
+        "id": "421",
+        "english": "Lap of the gods, Be in the.",
+        "uzbek": "Men qilaman o'ttiz\nTangrim qiladi to'qqiz."
+    },
+    {
+        "id": "422",
+        "english": "Lark, Be up with the.",
+        "uzbek": "Uch   kun   barvaqt   turgan   bir\nkun yutar."
+    },
+    {
+        "id": "423",
+        "english": "Laughed  at that  laughs  at himself\nfirst, He is not.",
+        "uzbek": "O'z aybini bilgan vali bo'lar."
+    },
+    {
+        "id": "424",
+        "english": "Laws,    The    more    /   the    more\noffenders.",
+        "uzbek": "Odamning  buzug'i  ham  qozi,\nBuzg'unchisi ham qozi."
+    },
+    {
+        "id": "425",
+        "english": "Learning makes a good man better and an ill man worse",
+        "uzbek": "Ilm      —      egarlangan      ot, Bilganga — do'st, bilmaganga\n— yot."
+    },
+    {
+        "id": "426",
+        "english": "Least foolish is wise, The",
+        "uzbek": "Ahmoqlarga  bosh  bo’lguncha,\nDonolarga yosh bol."
+    },
+    {
+        "id": "427",
+        "english": "Least said soonest mended.",
+        "uzbek": "Oz so'z — orom so'z,\nKo'p so'z — harom so'z."
+    },
+    {
+        "id": "428",
+        "english": "Leave in the lurch, To.",
+        "uzbek": "Nomardga zor bo’lgandan,\nqora daryoga g'arq bo'l"
+    },
+    {
+        "id": "429",
+        "english": "Leave no stone unturned, To.",
+        "uzbek": "Tirishganning   teshasi   toshga chega qoqar"
+    },
+    {
+        "id": "430",
+        "english": "Legs   according  to   the   coverlet,\nStretch your.",
+        "uzbek": "Ko'rpangga qarab oyoq uzat."
+    },
+    {
+        "id": "431",
+        "english": "Let the cat out of the bag, To",
+        "uzbek": "Siringni sirtga chiqarma."
+    },
+    {
+        "id": "432",
+        "english": "Liar   is   not   believed   when   he\nspeaks the truth, A.",
+        "uzbek": "Yolg'onchi chin deyolmas,\nChin desa ham, el inonmas."
+    },
+    {
+        "id": "433",
+        "english": "Liars should have good memories.",
+        "uzbek": "Yolg'on-yashiq gapirma,\nSo'ng uyalib o'tirma."
+    },
+    {
+        "id": "434",
+        "english": "Lifeless that is faultless, He is.",
+        "uzbek": "Inson xatodan xoli emas."
+    },
+    {
+        "id": "435",
+        "english": "Light  cares  speak,  great  ones  are\ndumb.",
+        "uzbek": "Sukutda hikmat ko'p,\nBulutda — himmat."
+    },
+    {
+        "id": "436",
+        "english": "Lightly come, lightly go.",
+        "uzbek": "Qimordan    kelgan,    qimorga\nketar."
+    },
+    {
+        "id": "437",
+        "english": "Linen at home, Wash one's dirty",
+        "uzbek": "Uydagi  sirni  ko'chada  aytma,\nKo'chada       aytib,       g'amini tortma."
+    },
+    {
+        "id": "438",
+        "english": "Little things please little minds.",
+        "uzbek": "Kamtar      kerilmaydi,      Mol-\ndunyoga berilmaydi."
+    },
+    {
+        "id": "439",
+        "english": "Live and let live.",
+        "uzbek": "O'zim bo'lay dema,\no'zganing g'amini ye."
+    },
+    {
+        "id": "440",
+        "english": "Lives long that lives well, He.",
+        "uzbek": "To'g'rilikka o'lim yo'q."
+    },
+    {
+        "id": "441",
+        "english": "Look on the bright side.",
+        "uzbek": "Yaxshi niyat — yorti mol."
+    },
+    {
+        "id": "442",
+        "english": "Lost time is never find again.",
+        "uzbek": "Vaqting ketdi —baxting ketdi."
+    },
+    {
+        "id": "443",
+        "english": "Love       and       business       teach\neloquence.",
+        "uzbek": "Sevdirgan ham til,\nBezdirgan ham til."
+    },
+    {
+        "id": "444",
+        "english": "Love begets love.",
+        "uzbek": "Muhabbat               muhabbatni\ntug'diradi."
+    },
+    {
+        "id": "445",
+        "english": "Love  of  money  and  the  love  of\nlearning rarely meet, The.",
+        "uzbek": "Pul topguncha, aql top."
+    },
+    {
+        "id": "446",
+        "english": "Maidens   should   be   meek   untill\nthey be married.",
+        "uzbek": "Maqtangan qiz to'yda buzilar."
+    },
+    {
+        "id": "447",
+        "english": "Make the worst of both worlds.",
+        "uzbek": "Yomon bilan talashsang,\nqadring ketar."
+    },
+    {
+        "id": "448",
+        "english": "Man all things can,No living.",
+        "uzbek": "Har ishning bir ustasi bor,\nHar ustaning bir ustozi bor."
+    },
+    {
+        "id": "449",
+        "english": "Man can do no more than he can,\nA",
+        "uzbek": "Bo'yingni     yetmagan     joyga\ncho'zma."
+    },
+    {
+        "id": "450",
+        "english": "Man changes his  mind, A wise/ a\nfool never will.",
+        "uzbek": "Aqlli o'zini ayblar,\nAqlsiz — do'stini."
+    },
+    {
+        "id": "451",
+        "english": "Man has his price, Every.",
+        "uzbek": "Har   kimning   bo'yiga   qarab\nto'n bich."
+    },
+    {
+        "id": "452",
+        "english": "Man  is  a  fool  sometimes,  Every/\nand none at all times.",
+        "uzbek": "Adashmagan til,\nToymagan tuyoq yo'q."
+    },
+    {
+        "id": "453",
+        "english": "Man is born wise or learned, No.",
+        "uzbek": "Ko'p o'qigan olim bo'lsa,\nKo'pni ko'rgan dono bo'lar."
+    },
+    {
+        "id": "454",
+        "english": "Man is known by the company he\nkeeps, A.",
+        "uzbek": "Har     kimning     oshnasi     —\no'zining oynasi."
+    },
+    {
+        "id": "455",
+        "english": "Man lives, As a / so shall he die.",
+        "uzbek": "Tirik bo'lib bozorda yo'q, O'lik\nbo'lib — mozorda."
+    },
+    {
+        "id": "456",
+        "english": "Man   may   love   his   house   well\nwithout riding on the ridge, A.",
+        "uzbek": "Maqtanganning     uyiga     bor,\nKerilganning — to'yiga."
+    },
+    {
+        "id": "457",
+        "english": "Man of words and not of deeds is\nlike a garden full of weeds, A.",
+        "uzbek": "Ish bilsang, tuzarsan,\nBilmasang — buzarsan."
+    },
+    {
+        "id": "458",
+        "english": "Man, can serve two masters, No.",
+        "uzbek": "Ikki  kemaning  boshini  tutgan\ng'arq bo'lar."
+    },
+    {
+        "id": "459",
+        "english": "Marriage makes or mars a man.",
+        "uzbek": "Bo'ldiradigan      ham      xotin,\nO'ldiradigan ham xotin."
+    },
+    {
+        "id": "460",
+        "english": "Marriages are made in heaven.",
+        "uzbek": "Kelining    yaxshi    bo'lsa    — berdi  Xudo,  Kelining  yomon\nboisa — urdi Xudo."
+    },
+    {
+        "id": "461",
+        "english": "May,  Не  that  will  not  when  he  /\nwhen he will he shall have nay.",
+        "uzbek": "Har narsani xor tutsang,\nShunga zor bo'lasan."
+    },
+    {
+        "id": "462",
+        "english": "Measure for measure.",
+        "uzbek": "Birovga kesak otsang,\nU senga tosh otadi."
+    },
+    {
+        "id": "463",
+        "english": "Measure   thrice   before   you   cut\nonce,",
+        "uzbek": "Yetti o'lchab bir kes."
+    },
+    {
+        "id": "464",
+        "english": "Medicine, To give a dose of one's own.",
+        "uzbek": "Kekkayganga kekkaygin, Boshing    ko'kka    yetguncha, Egilganga egilgin,\nBoshing yerga tekkuncha"
+    },
+    {
+        "id": "465",
+        "english": "Mind your own business.",
+        "uzbek": "O'zingni bil, o'zgani qo'y."
+    },
+    {
+        "id": "466",
+        "english": "Mirror, The best/ is an old friend.",
+        "uzbek": "Kiyimning     yangisi     yaxshi,\nDo'stning — eskisi."
+    },
+    {
+        "id": "467",
+        "english": "Mischief    hatches,    He    that    /\nmischief catches.",
+        "uzbek": "Birovga choh qazisang,\no'zing tusharsan."
+    },
+    {
+        "id": "468",
+        "english": "Misery best who hides it most,\nHe bears.",
+        "uzbek": "Qand yeding ham indama,\nPand yeding ham indama."
+    },
+    {
+        "id": "469",
+        "english": "Mist before smb.'s eyes, Cast a.",
+        "uzbek": "Folga        ishonma,        suvga\nsuyanma."
+    },
+    {
+        "id": "470",
+        "english": "Mob   has   many   heads,   but   no\nbrains, The.",
+        "uzbek": "Ko'pchilikka    bosh    bo'lsang,\nDonolarga sirdosh bo'l."
+    },
+    {
+        "id": "471",
+        "english": "Money has no smell.",
+        "uzbek": "Pul   otang   kim,   onang   kim demaydi."
+    },
+    {
+        "id": "472",
+        "english": "Money  is  о  good  servant,  but  a\nbad master.",
+        "uzbek": "Pulni   sen   topasan,   Pul   seni\nemas."
+    },
+    {
+        "id": "473",
+        "english": "Money spent on the brain is never\nspent in vain.",
+        "uzbek": "Pul topguncha, aql top."
+    },
+    {
+        "id": "474",
+        "english": "More haste,   less speed.",
+        "uzbek": "Shoshmasang,     tez     yetasan,\nShoshgandan o'zib ketasan."
+    },
+    {
+        "id": "475",
+        "english": "Mother, Like / like daughter.",
+        "uzbek": "Onasini ko'rib, qizini ol,\nEgasini ko'rib, molini ol."
+    },
+    {
+        "id": "476",
+        "english": "Mother-in-law remembers not that she was a daughter-in-law, The.",
+        "uzbek": "Kelin bo'ldim — qaynonamga yoqmadim,\nQaynona bo'ldim — kelinimga\nyoqmadim."
+    },
+    {
+        "id": "477",
+        "english": "Murder will out.",
+        "uzbek": "Qiyiq   ish   qirq   yildan   keyin\nham ochiladi."
+    },
+    {
+        "id": "478",
+        "english": "Nail in smb.'s coffin, Drive a.",
+        "uzbek": "Birov     o'lmay,     birov     кип\nko'rmas."
+    },
+    {
+        "id": "479",
+        "english": "Names, No / no pack-drill.",
+        "uzbek": "Tilini tiygan boshini qutqarar."
+    },
+    {
+        "id": "480",
+        "english": "Natural  folly  is  bad  enough,  but learned folly is intolerable.",
+        "uzbek": "Ahmoq ahmoq emas,\nAhmoqni       ahmoq       qilgan ahmoq."
+    },
+    {
+        "id": "481",
+        "english": "Never put off till to-morrow what\nmay be done to-day.",
+        "uzbek": "Bugungi ishni ertaga qo'yma."
+    },
+    {
+        "id": "482",
+        "english": "Never  try  to  prove  what  nobody\ndoubts.",
+        "uzbek": "Befoyda so'zni aytma,\nFoydali so'zdan qaytma."
+    },
+    {
+        "id": "483",
+        "english": "Never  write  what  you  dare  not\nsign.",
+        "uzbek": "O'zingga    ravo    ko'rmaganni,\nO'zgaga ham ravo ko’rma."
+    },
+    {
+        "id": "484",
+        "english": "Night brings counsel, The.",
+        "uzbek": "Kecha yotib o'yla,\nErtasi turib so'yla."
+    },
+    {
+        "id": "485",
+        "english": "No  man's  religion  ever  survives\nhis morals.",
+        "uzbek": "Inson — odobi bilan,\nOsmon — oftobi bilan."
+    },
+    {
+        "id": "486",
+        "english": "Nothing is stolen without hands.",
+        "uzbek": "Qo'li qing'irning dili qing'ir."
+    },
+    {
+        "id": "487",
+        "english": "Nothing   questioneth,   He   that   / nothing learneth.",
+        "uzbek": "Bilmaganni   so'rab   o'rgangan\n— olim,\nHech    narsa    so'ramagan    — o'ziga zolim."
+    },
+    {
+        "id": "488",
+        "english": "Nothing so  bad  but  it  might  have\nbeen worse.",
+        "uzbek": "Har narsaga g'am yema,\nParcha nonni kam dema."
+    },
+    {
+        "id": "489",
+        "english": "Nothing  we  learn  to  do  ill,  By\ndoing.",
+        "uzbek": "Dangasaning kosasi oqarmas."
+    },
+    {
+        "id": "490",
+        "english": "Nothing, Civility costs.",
+        "uzbek": "Odob oltindan qimmat."
+    },
+    {
+        "id": "491",
+        "english": "Nowadays   truth   is   the   greatest\nnews.",
+        "uzbek": "Haqiqat — osmonda,\nShotisi — chervonda."
+    },
+    {
+        "id": "492",
+        "english": "Occasion       lost       cannot       be\nredeemed, An.",
+        "uzbek": "Yo'qolgan       bisot       topilar,\nYo'qolgan baxt topilmas."
+    },
+    {
+        "id": "493",
+        "english": "One    eye-witness    is    of    more\nweight than ten hear says.",
+        "uzbek": "Eshitgandan   ko'rgan   yaxshi,\nO'zini ko'rib bilgan yaxshi."
+    },
+    {
+        "id": "494",
+        "english": "One fool makes many.",
+        "uzbek": "Qozonga yondoshsang, qorasi yuqar,\nYomonga yondoshsang,\nyarasi yuqar."
+    },
+    {
+        "id": "495",
+        "english": "Ounce  of  discretion  is  worth  a\npound of wit, An.",
+        "uzbek": "Xushmuomalali mingni uribdi,\nTayog'i yo'g'on birni uribdi."
+    },
+    {
+        "id": "496",
+        "english": "Oyster, Close as an.",
+        "uzbek": "Indamasang,   uyday   balodan\nqutulasan."
+    },
+    {
+        "id": "497",
+        "english": "Passion will master you, If you do not master your passion.",
+        "uzbek": "Nafsini   tiygan   kishi   sulton\nbo'lur,  Nafsini  tiymagan  kishi ulton bo'lur."
+    },
+    {
+        "id": "498",
+        "english": "Path has a puddle, Every.",
+        "uzbek": "Har yerni qilma orzu,\nHar yerda bor tosh-u tarozu."
+    },
+    {
+        "id": "499",
+        "english": "Patience  is  the  best  remedy  for\nevery trouble.",
+        "uzbek": "Sabr     —     muvaffaqiyatning\nkaliti."
+    },
+    {
+        "id": "500",
+        "english": "Patience,  money  and  time  bring\nall things to pass",
+        "uzbek": "Sabr tagi — sariq oltin,\nSabr bilan chiqar oting."
+    },
+    {
+        "id": "501",
+        "english": "Pay a person in his own coin, To",
+        "uzbek": "Birovni g'iybat qilma,\nSeni ham g'iybat etarlar."
+    },
+    {
+        "id": "502",
+        "english": "Pays, Who breaks.",
+        "uzbek": "O'zing pishirgan osh - Aylanib\nich, o'rgilib ich."
+    },
+    {
+        "id": "503",
+        "english": "Peace,  If  you  want  /  be  prepared\nfor war.",
+        "uzbek": "Urushning kengashi yo'q."
+    },
+    {
+        "id": "504",
+        "english": "Peg in a square hole, A round.",
+        "uzbek": "O'z   o'rnini  bilmagan  o'rinsiz\nqolar."
+    },
+    {
+        "id": "505",
+        "english": "Pension  never  enriched  a  young\nman.",
+        "uzbek": "Nasiya yemang etni,\nQizartirar betni."
+    },
+    {
+        "id": "506",
+        "english": "Piaise makes good-men better and bad men worse.",
+        "uzbek": "Maqtamoqchi             bo'lsang, saxiyni   maqta,   Toptamoqchi\nbo'lsang, baxilni topta."
+    },
+    {
+        "id": "507",
+        "english": "Pig  but   a   grunt,   What   do   you\nexpect from a.",
+        "uzbek": "Eshak   hangramasa,   «hangi»\ndemaslar."
+    },
+    {
+        "id": "508",
+        "english": "Pigeon and kill a crow, Shoot at a.",
+        "uzbek": "Yovga so'zing chin aytma,\nChin aytsang ham sir aytma."
+    },
+    {
+        "id": "509",
+        "english": "Pitch   shall   be   defiled,   He   that touches.",
+        "uzbek": "Qozonga      yaqin      yursang,\nqorasi  yuqar,  Yomonga  yaqin yursang, balosi yuqar."
+    },
+    {
+        "id": "510",
+        "english": "Pitchers have big ears, Little.",
+        "uzbek": "Devor tagida gapirma,\nDevorning ham qulog'i bor."
+    },
+    {
+        "id": "511",
+        "english": "Plain as a pike-staff, As.",
+        "uzbek": "Oy nuri tunni yoritar,\nOdam aqli — hayotni."
+    },
+    {
+        "id": "512",
+        "english": "Pleased  ourselves,  When  we  are/\nwe begin to please others.",
+        "uzbek": "O'ziga  baxillik  qilgan  o'zgaga\nsaxiylik qilmas."
+    },
+    {
+        "id": "513",
+        "english": "Pleasure  of what we  enjoy  is  lost\nby coveting more, The.",
+        "uzbek": "Nafsim mening balodir,\nYongan o'tga soladir"
+    },
+    {
+        "id": "514",
+        "english": "Pleasure,   То   overcome/   is   the\ngreatest pleasure.",
+        "uzbek": "Nafsini tiygan valiy"
+    },
+    {
+        "id": "515",
+        "english": "Poacher  makes  the  best  keeper,\nAn old.",
+        "uzbek": "O'g’ri qarisa, so'fi bo'lar,\nG'ar qarisa — otin."
+    },
+    {
+        "id": "516",
+        "english": "Poor heart that never rejoices, It is\na.",
+        "uzbek": "Jahl bilan qartayasan,\nKulgi bilan yasharasan."
+    },
+    {
+        "id": "517",
+        "english": "Pot is soon hot, A little.",
+        "uzbek": "Aqlli kengash qilar,\nAhmoq — urush."
+    },
+    {
+        "id": "518",
+        "english": "Practice   is   worth   a   pound   of\ntheory, An ounce of.",
+        "uzbek": "Ilm — amali bilan,\nVa'da — vafosi bilan."
+    },
+    {
+        "id": "519",
+        "english": "Practice makes perfect",
+        "uzbek": "Takrorlash o'qish onasidir"
+    },
+    {
+        "id": "520",
+        "english": "Praise is not pudding",
+        "uzbek": "Maqtov osh bilan non bo'lmas."
+    },
+    {
+        "id": "521",
+        "english": "Pricks, Kick against the.",
+        "uzbek": "Sichqonning     o'lgisi     kelsa,\nMushuk bilan o'ynashar."
+    },
+    {
+        "id": "522",
+        "english": "Pride apes humility.",
+        "uzbek": "G'urur — g'urbat,\nKamtarlik — hurmat."
+    },
+    {
+        "id": "523",
+        "english": "Pride   goes   before,   and   shame\nfollows after",
+        "uzbek": "G'urur g'urbatga solar."
+    },
+    {
+        "id": "524",
+        "english": "Pride will have a .fall.",
+        "uzbek": "Noo'rin g'urur — boshga balo."
+    },
+    {
+        "id": "525",
+        "english": "Priest, Like / like people,",
+        "uzbek": "Podsho    zolim    bolsa,    yurt\nto'zar, Podsho odil bo'lsa, yurt o'zar."
+    },
+    {
+        "id": "526",
+        "english": "Promise little, but do much.",
+        "uzbek": "Va'da    quruq,    bajarilsa    —\nulug'."
+    },
+    {
+        "id": "527",
+        "english": "Promises  are  like  piecrust,  made\nto be broken.",
+        "uzbek": "Va'dani buzgan to'zar."
+    },
+    {
+        "id": "528",
+        "english": "Promises   too   much,   He   that   /\nmeans nothing.",
+        "uzbek": "Va'daboz     kishi     yolg'onchi\nbo'lar."
+    },
+    {
+        "id": "529",
+        "english": "Prosperity has damned more souls\nthan all the devils together.",
+        "uzbek": "Pul ko'paysa odam buzilar."
+    },
+    {
+        "id": "530",
+        "english": "P's and Q's, To mind one's.",
+        "uzbek": "O'ylab gapir, do'ppining tagida\nodam bor."
+    },
+    {
+        "id": "531",
+        "english": "Pull   down   than   to   build,   It   is\neasier to.",
+        "uzbek": "Buzishga o'rganma,\ntuzishga o'rgan."
+    },
+    {
+        "id": "532",
+        "english": "Punctuality   is   the   politeness   of\nkings.",
+        "uzbek": "Kechikish    —    intizomsizlik,\nKeltirar hurmatsizlik."
+    },
+    {
+        "id": "533",
+        "english": "Purse   out   of  a   sow's   ear,   One\ncannot make a silk.",
+        "uzbek": "Egri     bitgan     daraxt     to'g'ri\no'smas."
+    },
+    {
+        "id": "534",
+        "english": "Purse-strings      are      the      most\ncommon ties of friendship, The.",
+        "uzbek": "Yaxshi     ko'rgan     do'stingga\nyaxshi ko'rgan molingni ber."
+    },
+    {
+        "id": "535",
+        "english": "Put on one's thinking cap, To.",
+        "uzbek": "O'ynab   aytsang   ham,   o'ylab\nayt."
+    },
+    {
+        "id": "536",
+        "english": "Put that in your pipe and smoke it.",
+        "uzbek": "Esing borida etagingni yop."
+    },
+    {
+        "id": "537",
+        "english": "Put your shoulder to the wheel.",
+        "uzbek": "Ish seni yengmasin,\nSen ishni yeng."
+    },
+    {
+        "id": "538",
+        "english": "Queen Anne is dead!",
+        "uzbek": "Ahmoq so'zining tuzi bo'lmas."
+    },
+    {
+        "id": "539",
+        "english": "Race, Slow and steady wins the.",
+        "uzbek": "Shoshmagan   arava   quyonga\nyetar."
+    },
+    {
+        "id": "540",
+        "english": "Reap as one has sown.",
+        "uzbek": "Har kim ekkanini oladi."
+    },
+    {
+        "id": "541",
+        "english": "Receiver  is  as  bad  as  the  thief,\nThe.",
+        "uzbek": "O'g'riga     rahm     qilish     —\nTo'g’rining sho'rini quritish."
+    },
+    {
+        "id": "542",
+        "english": "Religion is the best armour in ,ihej\n>$(itt}rld, but the worst cloak.",
+        "uzbek": "Dindor ham bo'lma,\ndinsiz ham turma."
+    },
+    {
+        "id": "543",
+        "english": "Respects  not  is  not  respected,  He\nthat.",
+        "uzbek": "Hurmat       qilsang,       hurmat\nko'rasan."
+    },
+    {
+        "id": "544",
+        "english": "Revenge never repairs an injury.",
+        "uzbek": "Yomonlik  qilganga   yaxshilik\nqil."
+    },
+    {
+        "id": "545",
+        "english": "Rhyme or reason, Without.",
+        "uzbek": "Ma'nosi yo'q gapdan,\ndonasi bor cho'p yaxshi."
+    },
+    {
+        "id": "546",
+        "english": "Riches of the mind only that make\na man rich and happy, It is.",
+        "uzbek": "Aqlli baxt topar,\nBaxt bilan taxt topar."
+    },
+    {
+        "id": "547",
+        "english": "Rod  for  his  own  back,  He  makes\na.",
+        "uzbek": "Har   kirn   qazgan   chuquriga\nyiqilar."
+    },
+    {
+        "id": "548",
+        "english": "Rule  youth well, for age will rule\nitself.",
+        "uzbek": "Yoshlikda hunar olgan,\nQarigach, ishga solar."
+    },
+    {
+        "id": "549",
+        "english": "Run before one con walk, To.",
+        "uzbek": "Avval bil, keyin qil."
+    },
+    {
+        "id": "550",
+        "english": "Safety in numbers,There is.",
+        "uzbek": "Ko'pchilik      biriksa,      tog'ni\nqulatar."
+    },
+    {
+        "id": "551",
+        "english": "Saints  that  go  to  church,  All  are\nnot.",
+        "uzbek": "Eshak   Makkaga   borib   hoji\nbo'lmas."
+    },
+    {
+        "id": "552",
+        "english": "Satan rebuking sin.",
+        "uzbek": "O'zi boshqa, so'zi boshqa."
+    },
+    {
+        "id": "553",
+        "english": "Say little but think the more.",
+        "uzbek": "O'ylab olmay so'ylama."
+    },
+    {
+        "id": "554",
+        "english": "Say Во to a goose, Не cannot.",
+        "uzbek": "Mushukka   \"pisht\"   demagan,\ntovuqqa \"kisht\" deyolmas."
+    },
+    {
+        "id": "555",
+        "english": "Says what he likes, He who / shall hear what he does not like.",
+        "uzbek": "Og'ziga   kelganni   demak   — nodonning ishi,\nOldiga   kelganni   yemak   —\nhayvonning ishi."
+    },
+    {
+        "id": "556",
+        "english": "Screw loose, Have a.",
+        "uzbek": "Ahmoqning      oldingi      tishi\nqimirlar."
+    },
+    {
+        "id": "557",
+        "english": "Second thoughts are best.",
+        "uzbek": "O'ylab-o'ylab  jo'yak  ochsang,\nO'ynab-o'ynab sug'orasan."
+    },
+    {
+        "id": "558",
+        "english": "Self-praise is no recommendation.",
+        "uzbek": "O'zini  maqtagan  —  o'limning\nqorovuli"
+    },
+    {
+        "id": "559",
+        "english": "Service is no inheritance.",
+        "uzbek": "Mehnat bilan kishi o'lmas."
+    },
+    {
+        "id": "560",
+        "english": "Shadow  and  let  go  a  substance,\nCatch a.",
+        "uzbek": "Yo'qni quvib, boridan ajralma."
+    },
+    {
+        "id": "561",
+        "english": "Sheep among the shearers, As a .",
+        "uzbek": "Ochiq     qolgan     qozonni     it\nyalaydi."
+    },
+    {
+        "id": "562",
+        "english": "Short pleasure, long lament.",
+        "uzbek": "Bir      nafaslik      muhabbat—\nboshga keltirar ofat."
+    },
+    {
+        "id": "563",
+        "english": "Shortest answer is doing, The.",
+        "uzbek": "Ko'p gapdan oz bo'lsa ham ish yaxshi. "
+    },
+    {
+        "id": "564",
+        "english": "Silence is golden.",
+        "uzbek": "Sukut saqlash oltinga barobar"
+    },
+    {
+        "id": "565",
+        "english": "Six hours' sleep  for a  man,  seven\nfor a woman, and eight for a fool.",
+        "uzbek": "Uyqu       g'aflatdir,       Mehnat\nrohatdir."
+    },
+    {
+        "id": "566",
+        "english": "Slow   to   promise   and   quick   to\nperform,Be.",
+        "uzbek": "Va'da quruq, bajarilsa-ulug'."
+    },
+    {
+        "id": "567",
+        "english": "Soft fire makes sweet malt",
+        "uzbek": "Yaxshi so'z qand yedirar,\nYomon so'z pand yedirar."
+    },
+    {
+        "id": "568",
+        "english": "Soon learnt soon forgotten.",
+        "uzbek": "Tez bitgan tez yitar."
+    },
+    {
+        "id": "569",
+        "english": "Speak well of your friend, of your\nenemy say nothing.",
+        "uzbek": "Do'stingga         do'st         bo’l,\nDushmaningga — ziyrak."
+    },
+    {
+        "id": "570",
+        "english": "Speak when you are spoken to.",
+        "uzbek": "Tilingni         tiygin,         tiling\nsinmasin,  Bu  yerda  o'tirganlar senga kulmasin."
+    },
+    {
+        "id": "571",
+        "english": "Speaks  ill  of  his  wife,  He  that  / dishonours himself.",
+        "uzbek": "Chala  dovruqqa  chol  yiqilar,\nXotinni       so'ksang,       obro' to'kilar."
+    },
+    {
+        "id": "572",
+        "english": "Speech is silver, silence is golden.",
+        "uzbek": "So'z — kumush,\nJim o'tirish — oltin."
+    },
+    {
+        "id": "573",
+        "english": "Split hairs, To.",
+        "uzbek": "Qildan qiyiq qidirma."
+    },
+    {
+        "id": "574",
+        "english": "Standers-by     see     more     than\ngamesters.",
+        "uzbek": "O'z   bilganingda   bo'lma,   El\nbilganidan qolma."
+    },
+    {
+        "id": "575",
+        "english": "Start makes easy stages, Early.",
+        "uzbek": "Erta.turgan horimas."
+    },
+    {
+        "id": "576",
+        "english": "Step   from   the   sublime   to   the\nridiculous, There is but one.",
+        "uzbek": "Uluglikka                 yetishsang\nyengiltak bo'lma."
+    },
+    {
+        "id": "577",
+        "english": "Step that costs, It is the first.",
+        "uzbek": "Har  bir  ishning  chamasi  bor,"
+    },
+    {
+        "id": "578",
+        "english": "",
+        "uzbek": "Har daryoning kemasi bor."
+    },
+    {
+        "id": "579",
+        "english": "Step, Mind one's.",
+        "uzbek": "Qadamni   qarab   bos,   So'zni\nqarab ayt."
+    },
+    {
+        "id": "580",
+        "english": "Sticks  and  stones  may  break  my\nbones,  but  words  will  never  hurt me.",
+        "uzbek": "So'zni  ayting  uqqanga,  Jonni jonga suqqanga."
+    },
+    {
+        "id": "581",
+        "english": "Stiff as a poker.",
+        "uzbek": "Kekkayish terakka yarashar."
+    },
+    {
+        "id": "582",
+        "english": "Stitch in time saves nine, A.",
+        "uzbek": "Har  ishni  o'z  vaqtida  qil,  Har\ndaqiqani baxting kaliti bil."
+    },
+    {
+        "id": "583",
+        "english": "Straws against the wind, Throw.",
+        "uzbek": "Shamolga     qarshi     tupurma,\nYuzingga tushar."
+    },
+    {
+        "id": "584",
+        "english": "Street of by and by one arrives at\nthe house of never, By the.",
+        "uzbek": "Bugungi ishni ertaga qo'yma."
+    },
+    {
+        "id": "585",
+        "english": "Stuff today and starve tomorrow.",
+        "uzbek": "Har kuni yema palovni,\nHar kuni yoqqil olovni."
+    },
+    {
+        "id": "586",
+        "english": "Subtlety is better than force.",
+        "uzbek": "Hiyla    bilan    arslon    tutilar,\nKuch bilan sichqon tutilmas."
+    },
+    {
+        "id": "587",
+        "english": "Sweet without sweat, No.",
+        "uzbek": "Ter      to'kkanga      —      besh yong'oq,\nTo'kmaganga        —        puch\nyong'oq."
+    },
+    {
+        "id": "588",
+        "english": "Swift to hear, Be / slow to speak,",
+        "uzbek": "Gapirib pushaymon yegandan, Gapirmay   dog'da    qolganing\nyaxshi."
+    },
+    {
+        "id": "589",
+        "english": "Take one down a peg or two, To.",
+        "uzbek": "Kekkaygan                 yigitning\ngerdayishini ishda ko'r"
+    },
+    {
+        "id": "590",
+        "english": "Take the bull by the horns, To",
+        "uzbek": "Bolani yoshdan o'rgat,\nOtni — boshdan."
+    },
+    {
+        "id": "591",
+        "english": "Take  the  gilt  off the  gingerbread,\nTo.",
+        "uzbek": "Pardozlini uyda ko'r,\nXotiningni to'yda ko'r."
+    },
+    {
+        "id": "592",
+        "english": "Take  the  wind  out  of  one's  sails,\nTo.",
+        "uzbek": "Birov tuzar, birov buzar."
+    },
+    {
+        "id": "593",
+        "english": "Take things as you find them.",
+        "uzbek": "Bo'lar-bo'lmasga urinma,\noxirida surinma."
+    },
+    {
+        "id": "594",
+        "english": "Tale-bearer    is    worse    than    a\nthief,A.",
+        "uzbek": "Chaqimchining    tilidan    ilon\nhazar qilar."
+    },
+    {
+        "id": "595",
+        "english": "Tales out of school, To tell.",
+        "uzbek": "Uyingdagi    gapni    ko'chadan\neshitmoq."
+    },
+    {
+        "id": "596",
+        "english": "Talk of the town, The.",
+        "uzbek": "El og'ziga elak tutib bo'lmas."
+    },
+    {
+        "id": "597",
+        "english": "Talk  the  hind  leg  off  a  donkey,\nTo.",
+        "uzbek": "Ko'p gap — eshakka yuk."
+    },
+    {
+        "id": "598",
+        "english": "Talk  without  thinking,То  /  is  to\nshoot without aiming.",
+        "uzbek": "O'ylamay  otilgan  sopqon  ham\nketga, ham betga tegar."
+    },
+    {
+        "id": "599",
+        "english": "Talkers,   The   greatest   /   are   the least doers.",
+        "uzbek": "Gap desang — qop-qop,\nIsh    desang,    Samarqanddan top."
+    },
+    {
+        "id": "600",
+        "english": "Talks  to  himself  ,Не  that/  speaks\nto a fool.",
+        "uzbek": "Ahmoq o'zi so'zlab, o'zi kular."
+    },
+    {
+        "id": "601",
+        "english": "Tares among smb.'s wheat, Sow",
+        "uzbek": "Dushman   qo'ydi   toy   tuzoq,\nllinsang, bo'lding cho'loq."
+    },
+    {
+        "id": "602",
+        "english": "Taste, Every man to his.",
+        "uzbek": "Har   kimning   o'z   fikri   bor,\nQurbaqaning zikri bor."
+    },
+    {
+        "id": "603",
+        "english": "Tattler is worse than a thief/A.",
+        "uzbek": "G'iybatchining dili kir,\nG'ar-o'g'rining tili bir."
+    },
+    {
+        "id": "604",
+        "english": "Teach  your  grandmother  to  suck\neggs.",
+        "uzbek": "Otangga aql o'rgatma."
+    },
+    {
+        "id": "605",
+        "english": "Teacheth  ill,  He  /  who  teacheth\nall.",
+        "uzbek": "Mahmadonadan          maslahat\nkutma."
+    },
+    {
+        "id": "606",
+        "english": "Tell the truth and shame the devil.",
+        "uzbek": "Rost     gapirgan     —     to'g'ri,\nyolg'onchi — o'g'ri."
+    },
+    {
+        "id": "607",
+        "english": "Things as they are, Take.",
+        "uzbek": "Boriga rozi bo'l, Yo'g'iga sabr\nqil."
+    },
+    {
+        "id": "608",
+        "english": "Things by halves, Never do.",
+        "uzbek": "Ish qilsang, puxta qil,\nxom qilmagin."
+    },
+    {
+        "id": "609",
+        "english": "Think    they    know    everything,\nThey that/ know nothing.",
+        "uzbek": "Aqli kaltaning tili uzun."
+    },
+    {
+        "id": "610",
+        "english": "Think well of all men.",
+        "uzbek": "Dunyo  yorug'  bo'lsin  desang,\nUyingga chiroq yoq."
+    },
+    {
+        "id": "611",
+        "english": "Think with the wise, but talk with\nthe vulgar.",
+        "uzbek": "Dono aqldan o'zar,\nNodon naqldan to'zar."
+    },
+    {
+        "id": "612",
+        "english": "Think, First / then speak.",
+        "uzbek": "Avval o'yla, keyin so'yla."
+    },
+    {
+        "id": "613",
+        "english": "Thinking     is     very     far     from\nknowing.",
+        "uzbek": "O'ychi o'ylaguncha,\nTo'ychi to'yini o'tkazar."
+    },
+    {
+        "id": "614",
+        "english": "Thoughts ore best, Second.",
+        "uzbek": "Yetti o'lchab bir kes."
+    },
+    {
+        "id": "615",
+        "english": "Three know it, When / all know it.",
+        "uzbek": "Siringni birovga aytma,\nAytsang, sir dema."
+    },
+    {
+        "id": "616",
+        "english": "Time  will  be  done  ot  no  time,",
+        "uzbek": "Vaqtning qadrini bilmagan"
+    },
+    {
+        "id": "617",
+        "english": "What may be done at any.",
+        "uzbek": "o'z qadrini bilmas."
+    },
+    {
+        "id": "618",
+        "english": "Tomorrow is a new day.",
+        "uzbek": "Ertagi nasibadan qolma,\nKechki nasibaga borma."
+    },
+    {
+        "id": "619",
+        "english": "Tomorrow never comes.",
+        "uzbek": "Zamon        tuzalar,        yomon\ntuzalmas."
+    },
+    {
+        "id": "620",
+        "english": "Tongue   is   о   good   weapon,   A\ngood.",
+        "uzbek": "Til qilichdan o'tkir."
+    },
+    {
+        "id": "621",
+        "english": "Tongue   makes   a   wise   head,   A\nstill.",
+        "uzbek": "Tilini tiygan boshini qutqarar."
+    },
+    {
+        "id": "622",
+        "english": "Tongue  of  idle  people  is  never\nidle, The.",
+        "uzbek": "Dangasaga ish buyursang,\nsenga aql o'rgatar."
+    },
+    {
+        "id": "623",
+        "english": "Tongue, A honey / a heart of gall.",
+        "uzbek": "Tili shakar — dushman,\nDili shakar — do'st."
+    },
+    {
+        "id": "624",
+        "english": "Too clever by half.",
+        "uzbek": "Haddidan oshsa kishi,\nMaqtanish bo'lar ishi."
+    },
+    {
+        "id": "625",
+        "english": "Tooth, As sharp as a serpant.",
+        "uzbek": "Ilon zahri — tishida,\nYomon zahri — tilida."
+    },
+    {
+        "id": "626",
+        "english": "Touch wood.",
+        "uzbek": "Ko'z-ko'z   qilma,   ko'z   tegar,\nMaqtanchoqqa so'z tegar."
+    },
+    {
+        "id": "627",
+        "english": "Trade never agree, Two of a.",
+        "uzbek": "Ikki     qo'chqor     kallasi     bir\nqozonda qaynamas."
+    },
+    {
+        "id": "628",
+        "english": "Trust not a new friend  nor an old\nenemy.",
+        "uzbek": "Har kimni do'stim dema,\nTandagi po'stim dema."
+    },
+    {
+        "id": "629",
+        "english": "Truth,  The/  the  whole  truth,  and\nnothing but the truth.",
+        "uzbek": "Haq egilsa ham, sinmaydi,\nHaqqa zavol bo'lmaydi."
+    },
+    {
+        "id": "630",
+        "english": "Turn an honest penny, To.",
+        "uzbek": "Oshing  halol  bo'lsa,  ko'chada\nich."
+    },
+    {
+        "id": "631",
+        "english": "Turn deserves another, One good .",
+        "uzbek": "Yaxshi bo'lsa, oshini yer,\nYomon bo'lsa, boshini yer."
+    },
+    {
+        "id": "632",
+        "english": "Turn the tables, To.",
+        "uzbek": "Kekkayganga          kekkaygin,\nenkayganga enkaygin."
+    },
+    {
+        "id": "633",
+        "english": "Turn up one's nose, To",
+        "uzbek": "Maqtanchoq        —        quruq\npo'choq."
+    },
+    {
+        "id": "634",
+        "english": "Twig is  bent,  As  the  / so  the  tree\nis inclined.",
+        "uzbek": "Bolani yoshdan asra,\nNiholni boshdan asra."
+    },
+    {
+        "id": "635",
+        "english": "Two bites of a cherry, To make.",
+        "uzbek": "Magizni bolib yesa,\nqirq kishiga yetar."
+    },
+    {
+        "id": "636",
+        "english": "Two blacks do not make a white.",
+        "uzbek": "Ikki yomon qo'shilsa,\nKeng dunyoga sig'ishmas."
+    },
+    {
+        "id": "637",
+        "english": "Two to make a quarrel, It takes.",
+        "uzbek": "Qars    ikki    qo'ldan    chiqar,\nQizg'anch-yo'ldan."
+    },
+    {
+        "id": "638",
+        "english": "Two wrongs don't make a right.",
+        "uzbek": "Yomonga     yaxshi    bo'l     —\nyutasan."
+    },
+    {
+        "id": "639",
+        "english": "Ugly as sin,As.",
+        "uzbek": "Hunukdan Xudo bezor."
+    },
+    {
+        "id": "640",
+        "english": "Under the blanket the black one is\nas good as the white.",
+        "uzbek": "Qorong'ining ko'zi ko'r."
+    },
+    {
+        "id": "641",
+        "english": "United we stand, divided we fall.",
+        "uzbek": "Birlashgan          —          o'zar,\nBirlashmagan — to'zar."
+    },
+    {
+        "id": "642",
+        "english": "Variety is pleasing.",
+        "uzbek": "Sayohat — tanga rohat,\nTan emas, jonga rohat."
+    },
+    {
+        "id": "643",
+        "english": "Vengeance,   The   noblest/   is   to\nforgive.",
+        "uzbek": "Lazzatli avf intiqomda yo'q."
+    },
+    {
+        "id": "644",
+        "english": "Venom to that of the tongue,There\nis no.",
+        "uzbek": "Til zahar bo’lsa, o'ldirar."
+    },
+    {
+        "id": "645",
+        "english": "Virtue  dwells  not  in  the  tongue\nbut in the heart.",
+        "uzbek": "Tilni bog'la dil bilan,\nDilni bog'la til bilan."
+    },
+    {
+        "id": "646",
+        "english": "Virtue is its own reward.",
+        "uzbek": "Yaxshilik  qil  daryoga  tashla, Baliq bilar,\nBaliq bilmasa, xoliq bilar."
+    },
+    {
+        "id": "647",
+        "english": "Virtue never grows old.",
+        "uzbek": "Ezgulikning kechi yo'q."
+    },
+    {
+        "id": "648",
+        "english": "Voice of the people is the voice of\nGod,The.",
+        "uzbek": "Xalq  aytmas,  xalq  aytsa,  xato\naytmas."
+    },
+    {
+        "id": "649",
+        "english": "Vows     mode     in     storms     are\nforgotten in calm.",
+        "uzbek": "Va'daga   vafo   sinovli   kunda\nsinalar."
+    },
+    {
+        "id": "650",
+        "english": "Wager is a fool's argument, A.",
+        "uzbek": "Ahmoq — o'ynashda,\nyaxshi — o'ylashda."
+    },
+    {
+        "id": "651",
+        "english": "Wages of sin is death, The.",
+        "uzbek": "Gunohiga yarasha — jazosi."
+    },
+    {
+        "id": "652",
+        "english": "Wagon,Fix smb.'s.",
+        "uzbek": "Birov tuzar, birov buzar."
+    },
+    {
+        "id": "653",
+        "english": "Walls have ears.",
+        "uzbek": "Devorning ham qulog'i bor."
+    },
+    {
+        "id": "654",
+        "english": "Want of wit is worse than want of\nwealth.",
+        "uzbek": "Ilm olish —  nina  bilan quduq\nqazish."
+    },
+    {
+        "id": "655",
+        "english": "War begins,When/ hell opens.",
+        "uzbek": "Urushli uy — mozor."
+    },
+    {
+        "id": "656",
+        "english": "Warm the cockles of'the heart,To",
+        "uzbek": "Ko'ngil ko'ngildan suv ichar."
+    },
+    {
+        "id": "657",
+        "english": "Wash a blackamoor white.",
+        "uzbek": "Qorani     yuvgan     bilan     oq\nbolmas."
+    },
+    {
+        "id": "658",
+        "english": "Waste not, want net.",
+        "uzbek": "Pulni ko'p deb shopirma,\nYo'q vaqti zor bo'lasan."
+    },
+    {
+        "id": "659",
+        "english": "Water  drowned   the   miller,  Too\nmuch.",
+        "uzbek": "Har narsaning ozi — shirin."
+    },
+    {
+        "id": "660",
+        "english": "Water  runs  by  the  mill  that  the\nmiller knows not of, Much.",
+        "uzbek": "Bilganing       daryo       bo'lsa,\nbilmaganing — dengiz."
+    },
+    {
+        "id": "661",
+        "english": "Water,   No   safe   wading   in   an\nunknown.",
+        "uzbek": "Daryoga  ot  solmasdan  avval,\nkechuvini top."
+    },
+    {
+        "id": "662",
+        "english": "Water, Spent money like.",
+        "uzbek": "Pulni ko'p deb sovurma,\nYo'q vaqti zor bo'lasan."
+    },
+    {
+        "id": "663",
+        "english": "Way   about   is   the   nearest   way home, The longest.",
+        "uzbek": "Shoshilsang,  yiqilib  tushasan,\nShoshilmasang,                 oyga chiqasan."
+    },
+    {
+        "id": "664",
+        "english": "Weakest goes to the wall, The.",
+        "uzbek": "Bo'sh kelganni bo'ri yer."
+    },
+    {
+        "id": "665",
+        "english": "Wear the breeches,To",
+        "uzbek": "Xotin boshim erkak bo'ldi, Qora sochim telpak bo'ldi"
+    },
+    {
+        "id": "666",
+        "english": "What is what,To know.",
+        "uzbek": "Ko'zing borida yo'l tani,\nEsing borida el tani."
+    },
+    {
+        "id": "667",
+        "english": "When in doubt, leave out.",
+        "uzbek": "Ko'zing  yetmagan  ishga  qo'l\nurma."
+    },
+    {
+        "id": "668",
+        "english": "Whigs   bathing   and   walk   away\nwith their -clothes, Catch the.",
+        "uzbek": "Dushman    terisidan    do'sting\nuchun po'stin bich."
+    },
+    {
+        "id": "669",
+        "english": "Whispering, Where there is/ there\nis lying.",
+        "uzbek": "Pichir-pichirdan o't chiqar."
+    },
+    {
+        "id": "670",
+        "english": "Why has a wherefore, Every.",
+        "uzbek": "Besabab oyoqqa tikan kirmas."
+    },
+    {
+        "id": "671",
+        "english": "Will,  Where  there's  a  /  there's  a\nway.",
+        "uzbek": "Intilganga tole yor."
+    },
+    {
+        "id": "672",
+        "english": "Wind   and   reap   the   whirlwind, Sow the.",
+        "uzbek": "Yurib-yurib yo'l ozdim, Yo'llarda quduq qazdim. O'zim qazgan quduqqa,\nYiqilib o'layozdim."
+    },
+    {
+        "id": "673",
+        "english": "Wind that blows nobody good, It's\nan ill.",
+        "uzbek": "Har panddan — bir aql."
+    },
+    {
+        "id": "674",
+        "english": "Wine  and  wenches  empty  men's\npurses.",
+        "uzbek": "Mayishatga      ko'p      berilma,\nJamiyatdan orqada qolasan."
+    },
+    {
+        "id": "675",
+        "english": "Wisdom  by  the  follies  of  others,\nLearn.",
+        "uzbek": "Aqlni ahmoqdan o'rgan."
+    },
+    {
+        "id": "676",
+        "english": "Wisdom like silence, No.",
+        "uzbek": "Sukutda hikmat ko'p,\nBulutda — himmat."
+    },
+    {
+        "id": "677",
+        "english": "Wise after the event.",
+        "uzbek": "Ish          o'tgandan          keyin\nmaslahatchi ko'payar."
+    },
+    {
+        "id": "678",
+        "english": "Wise  child  that  knows   its  own father, It is a. ",
+        "uzbek": "Ota ko'rgan o't yo'nar, Ona ko'rgan to'n bichar."
+    },
+    {
+        "id": "679",
+        "english": "Wise man, Не is not a/who cannot play the fool on occasion.",
+        "uzbek": "Ahmoq ahmoq emas,\nAhmoqni       ahmoq       qilgan ahmoq."
+    },
+    {
+        "id": "680",
+        "english": "Wise  men  learn  by  other  men's\nmistakes; fools by their own.",
+        "uzbek": "Aqlni beaqldan o'rgan."
+    },
+    {
+        "id": "681",
+        "english": "Wit  once  bought  is  worth  twice\ntaught.",
+        "uzbek": "Bir sinalgan tajriba\nYetti kitobdan afzal."
+    },
+    {
+        "id": "682",
+        "english": "Wits jump, Good.",
+        "uzbek": "Aql aqldan quvvat olar."
+    },
+    {
+        "id": "683",
+        "english": "Wolves, One must howl with the.",
+        "uzbek": "Qo'shning ko'r bolsa, ko'zingni\nqis."
+    },
+    {
+        "id": "684",
+        "english": "Women   must   have   their   wills while   they   live,   because   they\nmake none when they die.",
+        "uzbek": "Ayolning      nozidan      qo'rq, Ahmoqning — so'zidan."
+    },
+    {
+        "id": "685",
+        "english": "Wood,  Don't  halloo  till  you  are\nout of the.",
+        "uzbek": "To'ydan oldin nog'ora chalma."
+    },
+    {
+        "id": "686",
+        "english": "Wooing       that's       not       long\ndoing,Happy the.",
+        "uzbek": "O'ychi o'yiga yetguncha,\nTo'ychi to'yini o'tkazar."
+    },
+    {
+        "id": "687",
+        "english": "Word is one's bond, One's.",
+        "uzbek": "So'z    aytganda    o'ylab    ayt,\nOqibatini bilib ayt."
+    },
+    {
+        "id": "688",
+        "english": "Word to the wiseA",
+        "uzbek": "Donoga ishora kifoya."
+    },
+    {
+        "id": "689",
+        "english": "Words are the wise man's counters\nand the fool's money.",
+        "uzbek": "Dono    so'ziga    bino    qo'yar,\nNodon o'ziga bino qo'yar."
+    },
+    {
+        "id": "690",
+        "english": "Words break no bones, Hard.",
+        "uzbek": "It hurar — karvon o'tar."
+    },
+    {
+        "id": "691",
+        "english": "Words will not fill a bushel, Mere.",
+        "uzbek": "Bekorchidan — bemaza gap."
+    },
+    {
+        "id": "692",
+        "english": "Work  shall  not  eat^  He  that  will\nnot.",
+        "uzbek": "Ishlamagan     —      tishlamas,\nIshyoqmasga kun kulmas."
+    },
+    {
+        "id": "693",
+        "english": "Worm will turn, Even a.",
+        "uzbek": "Sabrli — chidar,\nSabrsiz — yonar."
+    },
+    {
+        "id": "694",
+        "english": "Worse things happen at sea.",
+        "uzbek": "Suvning    ishi    —    o'pirmoq,\nO'tning ishi — kuydirmoq."
+    },
+    {
+        "id": "695",
+        "english": "Worst of both worlds, Make the.",
+        "uzbek": "Yomon      bilan      talashsang,\nqadring ketar."
+    },
+    {
+        "id": "696",
+        "english": "Worthy,  The  labourer  is/  of  his\nhire.",
+        "uzbek": "Ishlab    topganning    —    osh,\nIshlamay topganing — tosh."
+    },
+    {
+        "id": "697",
+        "english": "Wrong never comes right.",
+        "uzbek": "Yomonlik  qilganga   yaxshilik\nqil."
+    },
+    {
+        "id": "698",
+        "english": "Young  men  think  old  men  fools,\nand  old  men know  young  men to be so.",
+        "uzbek": "Qarilikni       donolik       bezar, Yoshlikni — kamtarlik."
+    },
+    {
+        "id": "699",
+        "english": "Young saint, old devil.",
+        "uzbek": "Qarib quyilmagan,\nAchib suyulmas."
+    },
+    {
+        "id": "700",
+        "english": "Youth will have its course.",
+        "uzbek": "Yoshi yetmay ishi yetmas."
+    },
+    {
+        "id": "701",
+        "english": "Youth will serve.",
+        "uzbek": "Yosh kelsa — ishga,\nQari kelsa — oshga."
+    },
+    {
+        "id": "702",
+        "english": "Zeal is  fit only for wise  men, but\nis found mostly in fools.",
+        "uzbek": "Johilda kuch ko'p bo'lar,\nKuchim degan tez o'lar."
+    },
+    {
+        "id": "703",
+        "english": "Zeal   without   knowledge   is   fire\nwithout light.",
+        "uzbek": "Bilmaganning bilagi tolmas."
+    }
+]
