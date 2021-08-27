@@ -21,6 +21,7 @@
 #.vscode/
 service_key.json
 key.properties
+key.jks
 key.zip
 # Flutter/Dart/Pub related
 **/doc/api/
