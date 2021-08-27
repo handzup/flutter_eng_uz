@@ -59,7 +59,9 @@ class MyDrawer extends StatelessWidget {
                         init: ThemeController(),
                         builder: (controller) => Icon(
                               CupertinoIcons.heart,
-                              color: controller.themeMode == ThemeMode.dark ? Colors.white : Colors.black,
+                              color: controller.themeMode == ThemeMode.dark
+                                  ? Colors.white
+                                  : Colors.black,
                             )))
               ],
             ),
@@ -82,7 +84,9 @@ class MyDrawer extends StatelessWidget {
                         init: ThemeController(),
                         builder: (controller) => Icon(
                               CupertinoIcons.search,
-                              color: controller.themeMode == ThemeMode.dark ? Colors.white : Colors.black,
+                              color: controller.themeMode == ThemeMode.dark
+                                  ? Colors.white
+                                  : Colors.black,
                             )))
               ],
             ),
@@ -105,7 +109,9 @@ class MyDrawer extends StatelessWidget {
                         init: ThemeController(),
                         builder: (controller) => Icon(
                               CupertinoIcons.info,
-                              color: controller.themeMode == ThemeMode.dark ? Colors.white : Colors.black,
+                              color: controller.themeMode == ThemeMode.dark
+                                  ? Colors.white
+                                  : Colors.black,
                             )))
               ],
             ),
@@ -128,7 +134,9 @@ class MyDrawer extends StatelessWidget {
                         init: ThemeController(),
                         builder: (controller) => Icon(
                               CupertinoIcons.person_crop_circle,
-                              color: controller.themeMode == ThemeMode.dark ? Colors.white : Colors.black,
+                              color: controller.themeMode == ThemeMode.dark
+                                  ? Colors.white
+                                  : Colors.black,
                             )))
               ],
             ),
@@ -142,8 +150,12 @@ class MyDrawer extends StatelessWidget {
                 children: [
                   SettingIconTile(
                     callback: () => switchTheme(value),
-                    icon: value.themeMode == ThemeMode.dark ? CupertinoIcons.moon : CupertinoIcons.sun_dust,
-                    title: value.themeMode == ThemeMode.dark ? 'Tungi holat' : 'Kunduzgi holat',
+                    icon: value.themeMode == ThemeMode.dark
+                        ? CupertinoIcons.moon
+                        : CupertinoIcons.sun_dust,
+                    title: value.themeMode == ThemeMode.dark
+                        ? 'Tungi holat'
+                        : 'Kunduzgi holat',
                   ),
                   Positioned(
                       right: 16,

@@ -12,7 +12,8 @@ class HomePage extends StatefulWidget {
   _HomePageState createState() => _HomePageState();
 }
 
-class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin {
+class _HomePageState extends State<HomePage>
+    with SingleTickerProviderStateMixin {
   TabController _pageController;
 
   @override
@@ -44,5 +45,7 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
     );
   }
 
-  void animateTo(int index) => _pageController.animateTo(index, duration: const Duration(milliseconds: 200), curve: Curves.linearToEaseOut);
+  void animateTo(int index) => _pageController.animateTo(index,
+      duration: const Duration(milliseconds: 200),
+      curve: Curves.linearToEaseOut);
 }

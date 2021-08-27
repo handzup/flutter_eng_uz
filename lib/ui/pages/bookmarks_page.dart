@@ -30,7 +30,8 @@ class BookmarkPage extends StatelessWidget {
               List<Lemma> ln = getAll(box);
               if (ln.isEmpty) return child;
               return ListView.separated(
-                  separatorBuilder: (context, index) => const SizedBox(height: 12),
+                  separatorBuilder: (context, index) =>
+                      const SizedBox(height: 12),
                   physics: ClampingScrollPhysics(),
                   padding: EdgeInsets.only(top: 10.0, bottom: 55),
                   itemCount: ln.length,

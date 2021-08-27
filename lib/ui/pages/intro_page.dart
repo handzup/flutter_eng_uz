@@ -29,22 +29,48 @@ class IntroPage extends StatelessWidget {
       Xozirgi kunda muhim mavzulardan biri xisoblangan ta’lim va tarbiyaga ko’rsatilayotgan e’tibor bizni dolzarb va bahsli mavzuga qo‘l urishimizga, bu orqali esa mavjud leksikografik bo‘shliqni ma’lum darajada to‘ldirishga ruhlantirdi.
       Lug‘at foydalanuvchilari tomonidan bildirilgan qimmatli fikr va mulohazalar, shuningdek, lug‘atni mukammallashtirish maqsadida bildirilgan har qanday taklif va tavsiyalar uchun mualliflar oldindan o’z minnaddorchiliklarini izhor etib qoladilar.
                   """,
-                  style: Theme.of(context).textTheme.bodyText1.copyWith(fontSize: 15, fontWeight: FontWeight.w400),
+                  style: Theme.of(context)
+                      .textTheme
+                      .bodyText1
+                      .copyWith(fontSize: 15, fontWeight: FontWeight.w400),
                   textAlign: TextAlign.justify,
                 ),
                 SizedBox(height: 20),
-                Text("""MAS’UL MUHARRIR:""", textAlign: TextAlign.center, style: Theme.of(context).textTheme.bodyText1.copyWith(fontSize: 15)),
+                Text("""MAS’UL MUHARRIR:""",
+                    textAlign: TextAlign.center,
+                    style: Theme.of(context)
+                        .textTheme
+                        .bodyText1
+                        .copyWith(fontSize: 15)),
                 const SizedBox(height: 8),
                 Text("Pedagogika fanlari nomzodi dosent F.I.Ikramxanova",
-                    textAlign: TextAlign.center, style: Theme.of(context).textTheme.bodyText1.copyWith(fontSize: 15, fontWeight: FontWeight.w400)),
+                    textAlign: TextAlign.center,
+                    style: Theme.of(context)
+                        .textTheme
+                        .bodyText1
+                        .copyWith(fontSize: 15, fontWeight: FontWeight.w400)),
                 const SizedBox(height: 8),
-                Text("Filologiya fanlari nomzodi, dotsent G. Mustayeva", textAlign: TextAlign.center, style: Theme.of(context).textTheme.bodyText1.copyWith(fontSize: 15, fontWeight: FontWeight.w400)),
+                Text("Filologiya fanlari nomzodi, dotsent G. Mustayeva",
+                    textAlign: TextAlign.center,
+                    style: Theme.of(context)
+                        .textTheme
+                        .bodyText1
+                        .copyWith(fontSize: 15, fontWeight: FontWeight.w400)),
                 SizedBox(height: 12),
                 const SizedBox(height: 8),
-                Text("""TAQRIZCHILAR""", textAlign: TextAlign.center, style: Theme.of(context).textTheme.bodyText1.copyWith(fontSize: 15)),
+                Text("""TAQRIZCHILAR""",
+                    textAlign: TextAlign.center,
+                    style: Theme.of(context)
+                        .textTheme
+                        .bodyText1
+                        .copyWith(fontSize: 15)),
                 const SizedBox(height: 8),
                 Text("Filologiya fanlari nomzodi, dotsent: F. Djo’rayeva",
-                    textAlign: TextAlign.center, style: Theme.of(context).textTheme.bodyText1.copyWith(fontSize: 15, fontWeight: FontWeight.w400)),
+                    textAlign: TextAlign.center,
+                    style: Theme.of(context)
+                        .textTheme
+                        .bodyText1
+                        .copyWith(fontSize: 15, fontWeight: FontWeight.w400)),
                 SizedBox(height: 24),
               ],
             ),

@@ -40,7 +40,9 @@ class BottomNavyBar extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final bgColor = (backgroundColor == null) ? Theme.of(context).bottomAppBarColor : backgroundColor;
+    final bgColor = (backgroundColor == null)
+        ? Theme.of(context).bottomAppBarColor
+        : backgroundColor;
 
     return Container(
       decoration: BoxDecoration(
@@ -120,7 +122,9 @@ class _ItemWidget extends StatelessWidget {
         duration: animationDuration,
         curve: curve,
         decoration: BoxDecoration(
-          color: isSelected ? item.activeColor.withOpacity(0.2) : Colors.transparent,
+          color: isSelected
+              ? item.activeColor.withOpacity(0.2)
+              : Colors.transparent,
           borderRadius: BorderRadius.circular(itemCornerRadius),
         ),
         child: SingleChildScrollView(
@@ -201,9 +205,12 @@ class RPSCustomPainter extends CustomPainter {
 
     Path path = Path();
     path.moveTo(0, size.height);
-    path.quadraticBezierTo(size.width * 0.00, size.height * 0.25, size.width * 0.13, size.height * 0.25);
-    path.cubicTo(size.width * 0.31, size.height * 0.25, size.width * 0.69, size.height * 0.25, size.width * 0.88, size.height * 0.25);
-    path.quadraticBezierTo(size.width * 1.00, size.height * 0.25, size.width, size.height);
+    path.quadraticBezierTo(size.width * 0.00, size.height * 0.25,
+        size.width * 0.13, size.height * 0.25);
+    path.cubicTo(size.width * 0.31, size.height * 0.25, size.width * 0.69,
+        size.height * 0.25, size.width * 0.88, size.height * 0.25);
+    path.quadraticBezierTo(
+        size.width * 1.00, size.height * 0.25, size.width, size.height);
 
     canvas.drawPath(path, paint);
   }

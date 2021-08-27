@@ -32,12 +32,20 @@ class CustomListTile extends StatelessWidget {
                     padding: const EdgeInsets.all(8),
                     child: Row(
                       children: [
-                        Expanded(child: Text(lemma.english, style: Theme.of(context).textTheme.bodyText1.copyWith(fontSize: 18))),
+                        Expanded(
+                            child: Text(lemma.english,
+                                style: Theme.of(context)
+                                    .textTheme
+                                    .bodyText1
+                                    .copyWith(fontSize: 18))),
                         const SizedBox(width: 12),
                       ],
                     ),
                   ),
-                  Positioned(top: 8, right: 8, child: CustomAnimatedIcon(index: lemma.id))
+                  Positioned(
+                      top: 8,
+                      right: 8,
+                      child: CustomAnimatedIcon(index: lemma.id))
                 ],
               ),
               Container(
@@ -51,7 +59,11 @@ class CustomListTile extends StatelessWidget {
                     )),
                 width: double.infinity,
                 padding: const EdgeInsets.all(8),
-                child: Text(lemma.uzbek, style: Theme.of(context).textTheme.bodyText1.copyWith(fontSize: 18)),
+                child: Text(lemma.uzbek,
+                    style: Theme.of(context)
+                        .textTheme
+                        .bodyText1
+                        .copyWith(fontSize: 18)),
               ),
               // Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: [
               //   Expanded(

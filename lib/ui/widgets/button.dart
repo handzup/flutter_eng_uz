@@ -25,7 +25,8 @@ class ButtonWithContent extends StatefulWidget {
   _ButtonWithContentState createState() => _ButtonWithContentState();
 }
 
-class _ButtonWithContentState extends State<ButtonWithContent> with SingleTickerProviderStateMixin {
+class _ButtonWithContentState extends State<ButtonWithContent>
+    with SingleTickerProviderStateMixin {
   AnimationController _controller;
   Animation<double> _scaleAnimation;
   @override
@@ -53,7 +54,8 @@ class _ButtonWithContentState extends State<ButtonWithContent> with SingleTicker
         child: Stack(
           children: [
             Padding(
-              padding: EdgeInsets.symmetric(horizontal: widget.horizontalPadding),
+              padding:
+                  EdgeInsets.symmetric(horizontal: widget.horizontalPadding),
               child: GestureDetector(
                 onTap: widget.isDisabled ? null : widget.callback,
                 onPanDown: (details) => _controller.forward(),
@@ -65,7 +67,10 @@ class _ButtonWithContentState extends State<ButtonWithContent> with SingleTicker
                     alignment: Alignment.center,
                     height: widget.height,
                     width: widget.width,
-                    decoration: BoxDecoration(color: Colors.transparent, borderRadius: BorderRadius.circular(widget.borderRadius)),
+                    decoration: BoxDecoration(
+                        color: Colors.transparent,
+                        borderRadius:
+                            BorderRadius.circular(widget.borderRadius)),
                     child: widget.child,
                   ),
                 ),
@@ -78,7 +83,8 @@ class _ButtonWithContentState extends State<ButtonWithContent> with SingleTicker
                 left: 0,
                 top: 0,
                 child: Padding(
-                  padding: EdgeInsets.symmetric(horizontal: widget.horizontalPadding),
+                  padding: EdgeInsets.symmetric(
+                      horizontal: widget.horizontalPadding),
                   child: Container(
                     color: Colors.white.withOpacity(.8),
                   ),

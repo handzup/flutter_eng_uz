@@ -6,7 +6,8 @@ abstract class AppTheme {
       primaryColor: primaryWhite,
       canvasColor: lightCard,
       accentColor: bgff,
-      bottomNavigationBarTheme: BottomNavigationBarThemeData(backgroundColor: lightBottombar),
+      bottomNavigationBarTheme:
+          BottomNavigationBarThemeData(backgroundColor: lightBottombar),
       accentColorBrightness: Brightness.light,
       backgroundColor: lightBg,
       cardTheme: CardTheme(color: lightCard, shadowColor: Colors.grey),
@@ -21,7 +22,8 @@ abstract class AppTheme {
       accentColor: bgff2,
       backgroundColor: darkBg,
       cardTheme: CardTheme(color: darkCard, shadowColor: darkCardShadow),
-      bottomNavigationBarTheme: BottomNavigationBarThemeData(backgroundColor: darkBottombar),
+      bottomNavigationBarTheme:
+          BottomNavigationBarThemeData(backgroundColor: darkBottombar),
       textTheme: TextTheme(bodyText1: darkText, headline1: titleText),
     );
   }
@@ -41,7 +43,19 @@ abstract class AppTheme {
   static const red = Color(0xFFDD0000);
   static const bgff = Color(0xFFffffcf);
   static const bgff2 = Color(0xFF9fa8da);
-  static const TextStyle lightText = TextStyle(color: Colors.black, fontSize: 20, fontFamily: 'GT Eesti Pro', fontWeight: FontWeight.w600);
-  static const TextStyle darkText = TextStyle(color: Colors.white, fontSize: 20, fontFamily: 'GT Eesti Pro', fontWeight: FontWeight.w600);
-  static const TextStyle titleText = TextStyle(color: Colors.white, fontSize: 25, fontFamily: 'GT Eesti Pro', fontWeight: FontWeight.w600);
+  static const TextStyle lightText = TextStyle(
+      color: Colors.black,
+      fontSize: 20,
+      fontFamily: 'GT Eesti Pro',
+      fontWeight: FontWeight.w600);
+  static const TextStyle darkText = TextStyle(
+      color: Colors.white,
+      fontSize: 20,
+      fontFamily: 'GT Eesti Pro',
+      fontWeight: FontWeight.w600);
+  static const TextStyle titleText = TextStyle(
+      color: Colors.white,
+      fontSize: 25,
+      fontFamily: 'GT Eesti Pro',
+      fontWeight: FontWeight.w600);
 }

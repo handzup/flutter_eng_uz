@@ -18,7 +18,11 @@ class _RecentPageState extends State<RecentPage> {
       list.add(box.getAt(i));
     }
     if (sort == null || sort.isEmpty) return list.toList();
-    return list.where((element) => element.english != null ? element.english.contains(RegExp(sort, caseSensitive: false)) : false).toList();
+    return list
+        .where((element) => element.english != null
+            ? element.english.contains(RegExp(sort, caseSensitive: false))
+            : false)
+        .toList();
   }
 
   final TextEditingController controller = TextEditingController();
@@ -50,7 +54,8 @@ class _RecentPageState extends State<RecentPage> {
           builder: (context, Box box, child) {
             List<Lemma> ln = sort(box, controller.text);
             return ListView.separated(
-                separatorBuilder: (context, index) => const SizedBox(height: 12),
+                separatorBuilder: (context, index) =>
+                    const SizedBox(height: 12),
                 physics: ClampingScrollPhysics(),
                 padding: EdgeInsets.only(top: 10.0, bottom: 55),
                 itemCount: ln.length,

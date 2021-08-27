@@ -10,7 +10,8 @@ class MainPage extends StatefulWidget {
   _MainPageState createState() => _MainPageState();
 }
 
-class _MainPageState extends State<MainPage> with AutomaticKeepAliveClientMixin {
+class _MainPageState extends State<MainPage>
+    with AutomaticKeepAliveClientMixin {
   List<Lemma> getList(Box box) {
     final list = <Lemma>[];
     for (var i = 0; i < box.length; i++) {

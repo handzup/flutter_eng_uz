@@ -8,7 +8,14 @@ class MaterialCard extends StatelessWidget {
   final Color color;
   final double indent;
   final double endIndent;
-  const MaterialCard({Key key, this.child, this.endIndent = 0, this.indent = 0, this.dividerHeright = 1, this.color = const Color.fromRGBO(194, 200, 208, 1)}) : super(key: key);
+  const MaterialCard(
+      {Key key,
+      this.child,
+      this.endIndent = 0,
+      this.indent = 0,
+      this.dividerHeright = 1,
+      this.color = const Color.fromRGBO(194, 200, 208, 1)})
+      : super(key: key);
   @override
   Widget build(BuildContext context) => Stack(
         children: [
@@ -27,7 +34,9 @@ class MaterialCard extends StatelessWidget {
               builder: (controller) => Divider(
                 thickness: dividerHeright,
                 height: dividerHeright,
-                color: controller.themeMode == ThemeMode.dark ? Colors.grey : color,
+                color: controller.themeMode == ThemeMode.dark
+                    ? Colors.grey
+                    : color,
                 endIndent: endIndent,
                 indent: indent,
               ),

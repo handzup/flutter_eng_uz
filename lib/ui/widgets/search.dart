@@ -32,15 +32,16 @@ class _SearchFieldComponentState extends State<SearchFieldComponent> {
         child: ClipRRect(
           borderRadius: BorderRadius.circular(6),
           child: CupertinoTextField(
-            style: Theme.of(context)
-                .textTheme
-                .bodyText1
-                .copyWith(fontSize: 14, fontWeight: FontWeight.w400, color: Colors.black),
+            style: Theme.of(context).textTheme.bodyText1.copyWith(
+                fontSize: 14, fontWeight: FontWeight.w400, color: Colors.black),
             onChanged: (value) {
               widget.onSearchChanged(value);
             },
             controller: widget.controller,
-            placeholderStyle: Theme.of(context).textTheme.bodyText1.copyWith(fontSize: 14, fontWeight: FontWeight.w400),
+            placeholderStyle: Theme.of(context)
+                .textTheme
+                .bodyText1
+                .copyWith(fontSize: 14, fontWeight: FontWeight.w400),
             keyboardType: TextInputType.visiblePassword,
             prefix: Padding(
               padding: const EdgeInsets.fromLTRB(6, 0, 0, 0),

@@ -56,7 +56,9 @@ class _SettingsPageState extends State<SettingsPage> {
                         init: ThemeController(),
                         builder: (controller) => Icon(
                               CupertinoIcons.arrow_right,
-                              color: controller.themeMode == ThemeMode.dark ? Colors.white : Colors.black,
+                              color: controller.themeMode == ThemeMode.dark
+                                  ? Colors.white
+                                  : Colors.black,
                             )))
               ],
             ),
@@ -79,7 +81,9 @@ class _SettingsPageState extends State<SettingsPage> {
                         init: ThemeController(),
                         builder: (controller) => Icon(
                               CupertinoIcons.arrow_right,
-                              color: controller.themeMode == ThemeMode.dark ? Colors.white : Colors.black,
+                              color: controller.themeMode == ThemeMode.dark
+                                  ? Colors.white
+                                  : Colors.black,
                             )))
               ],
             ),
@@ -93,8 +97,12 @@ class _SettingsPageState extends State<SettingsPage> {
                 children: [
                   SettingIconTile(
                     callback: () => switchTheme(value),
-                    icon: value.themeMode == ThemeMode.dark ? CupertinoIcons.moon : CupertinoIcons.sun_dust,
-                    title: value.themeMode == ThemeMode.dark ? 'Tungi holat' : 'Kunduzgi holat',
+                    icon: value.themeMode == ThemeMode.dark
+                        ? CupertinoIcons.moon
+                        : CupertinoIcons.sun_dust,
+                    title: value.themeMode == ThemeMode.dark
+                        ? 'Tungi holat'
+                        : 'Kunduzgi holat',
                   ),
                   Positioned(
                       right: 16,

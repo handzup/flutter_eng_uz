@@ -11,12 +11,15 @@ import '../../domain/lemma.dart';
 class CustomAnimatedIcon extends StatefulWidget {
   final Color color;
   final int index;
-  const CustomAnimatedIcon({Key key, this.color = AppTheme.red, @required this.index}) : super(key: key);
+  const CustomAnimatedIcon(
+      {Key key, this.color = AppTheme.red, @required this.index})
+      : super(key: key);
   @override
   _CustomAnimatedIconState createState() => _CustomAnimatedIconState();
 }
 
-class _CustomAnimatedIconState extends State<CustomAnimatedIcon> with SingleTickerProviderStateMixin {
+class _CustomAnimatedIconState extends State<CustomAnimatedIcon>
+    with SingleTickerProviderStateMixin {
   AnimationController _controller;
   Animation<double> _scaleAnimation;
   HiveWrapper hive = Get.find();
@@ -34,7 +37,8 @@ class _CustomAnimatedIconState extends State<CustomAnimatedIcon> with SingleTick
       ..addStatusListener((status) {
         switch (status) {
           case AnimationStatus.forward:
-            Future.delayed(Duration(milliseconds: 50)).then((value) => setBookmark());
+            Future.delayed(Duration(milliseconds: 50))
+                .then((value) => setBookmark());
             break;
           case AnimationStatus.completed:
             _controller.reverse();
@@ -57,7 +61,8 @@ class _CustomAnimatedIconState extends State<CustomAnimatedIcon> with SingleTick
   }
 
   setBookmark() {
-    Future.delayed(Duration(milliseconds: 50)).then((value) => hive.isFav(index: widget.index, name: 'lemma'));
+    Future.delayed(Duration(milliseconds: 50))
+        .then((value) => hive.isFav(index: widget.index, name: 'lemma'));
   }
 
   bool checked = false;
@@ -72,7 +77,9 @@ class _CustomAnimatedIconState extends State<CustomAnimatedIcon> with SingleTick
           child: ScaleTransition(
             scale: _scaleAnimation,
             child: Icon(
-              item.isFav ? CupertinoIcons.heart_solid : CupertinoIcons.heart_solid,
+              item.isFav
+                  ? CupertinoIcons.heart_solid
+                  : CupertinoIcons.heart_solid,
               color: item.isFav ? Colors.red : Theme.of(context).primaryColor,
             ),
           ),

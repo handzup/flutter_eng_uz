@@ -85,7 +85,13 @@ class AppDesc extends StatelessWidget {
                   builder: (controller) => Html(
                     data: htmlData,
                     style: {
-                      "html": Style(fontSize: FontSize.large, fontFamily: 'GT Eesti Pro', textAlign: TextAlign.justify, color: controller.themeMode == ThemeMode.dark ? Colors.white : Colors.black),
+                      "html": Style(
+                          fontSize: FontSize.large,
+                          fontFamily: 'GT Eesti Pro',
+                          textAlign: TextAlign.justify,
+                          color: controller.themeMode == ThemeMode.dark
+                              ? Colors.white
+                              : Colors.black),
                       "strong": Style(
                         fontFamily: 'Regular',
                         fontSize: FontSize.large,
@@ -328,7 +334,10 @@ bad. – badiiy
 bot. – botanika
 geol. – geologiya
 gram. – grammatika
-""", textAlign: TextAlign.start, style: Theme.of(context).textTheme.bodyText1.copyWith(fontSize: 14, fontWeight: FontWeight.w400)),
+""",
+                        textAlign: TextAlign.start,
+                        style: Theme.of(context).textTheme.bodyText1.copyWith(
+                            fontSize: 14, fontWeight: FontWeight.w400)),
                     Text("""
 zool. – yozma uslub
 lingv. – lingvistika
@@ -341,7 +350,10 @@ fiz. – fizika
 xim. – ximiya
 haz. – hazil
 
-""", textAlign: TextAlign.start, style: Theme.of(context).textTheme.bodyText1.copyWith(fontSize: 14, fontWeight: FontWeight.w400)),
+""",
+                        textAlign: TextAlign.start,
+                        style: Theme.of(context).textTheme.bodyText1.copyWith(
+                            fontSize: 14, fontWeight: FontWeight.w400)),
                   ],
                 )
               ],
