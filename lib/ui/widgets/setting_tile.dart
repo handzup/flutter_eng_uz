@@ -5,7 +5,13 @@ class SettingIconTile extends StatelessWidget {
   final String title;
   final Color color;
   final VoidCallback callback;
-  const SettingIconTile({@required this.icon, @required this.callback, Key key, this.title = '', this.color}) : super(key: key);
+  const SettingIconTile(
+      {@required this.icon,
+      @required this.callback,
+      Key key,
+      this.title = '',
+      this.color})
+      : super(key: key);
   @override
   Widget build(BuildContext context) => GestureDetector(
         onTap: callback,
@@ -28,7 +34,8 @@ class SettingIconTile extends StatelessWidget {
               //  const SizedBox(width: 13),
               Text(
                 title,
-                style: Theme.of(context).textTheme.bodyText1.copyWith(fontWeight: FontWeight.w500, fontSize: 15, color: color),
+                style: Theme.of(context).textTheme.bodyText1.copyWith(
+                    fontWeight: FontWeight.w500, fontSize: 15, color: color),
               )
             ],
           ),

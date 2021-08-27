@@ -25,10 +25,22 @@ class MyApp extends StatelessWidget {
       getPages: [
         GetPage(name: '/', page: () => HomePage()),
         GetPage(name: '/home', page: () => HomePage()),
-        GetPage(name: '/about', page: () => About(), transition: Transition.cupertino),
-        GetPage(name: '/search', page: () => RecentPage(), transition: Transition.cupertino),
-        GetPage(name: '/bookmark', page: () => BookmarkPage(), transition: Transition.cupertino),
-        GetPage(name: '/intro', page: () => IntroPage(), transition: Transition.cupertino)
+        GetPage(
+            name: '/about',
+            page: () => About(),
+            transition: Transition.cupertino),
+        GetPage(
+            name: '/search',
+            page: () => RecentPage(),
+            transition: Transition.cupertino),
+        GetPage(
+            name: '/bookmark',
+            page: () => BookmarkPage(),
+            transition: Transition.cupertino),
+        GetPage(
+            name: '/intro',
+            page: () => IntroPage(),
+            transition: Transition.cupertino)
       ],
       title: 'Proverbs about the behaviour',
       theme: AppTheme.lightTheme(),
