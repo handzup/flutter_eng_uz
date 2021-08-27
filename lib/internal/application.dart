@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_eng_uz/ui/pages/about.dart';
-import 'package:flutter_eng_uz/ui/pages/app_desc.dart';
 import 'package:flutter_eng_uz/ui/pages/bookmarks_page.dart';
 import 'package:flutter_eng_uz/ui/pages/recent_page.dart';
 import '../core/hive.dart';
@@ -26,22 +25,10 @@ class MyApp extends StatelessWidget {
       getPages: [
         GetPage(name: '/', page: () => HomePage()),
         GetPage(name: '/home', page: () => HomePage()),
-        GetPage(
-            name: '/about',
-            page: () => About(),
-            transition: Transition.cupertino),
-        GetPage(
-            name: '/search',
-            page: () => RecentPage(),
-            transition: Transition.cupertino),
-        GetPage(
-            name: '/bookmark',
-            page: () => BookmarkPage(),
-            transition: Transition.cupertino),
-        GetPage(
-            name: '/intro',
-            page: () => IntroPage(),
-            transition: Transition.cupertino)
+        GetPage(name: '/about', page: () => About(), transition: Transition.cupertino),
+        GetPage(name: '/search', page: () => RecentPage(), transition: Transition.cupertino),
+        GetPage(name: '/bookmark', page: () => BookmarkPage(), transition: Transition.cupertino),
+        GetPage(name: '/intro', page: () => IntroPage(), transition: Transition.cupertino)
       ],
       title: 'Proverbs about the behaviour',
       theme: AppTheme.lightTheme(),

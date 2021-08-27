@@ -1,16 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:url_launcher/url_launcher.dart';
 
 class About extends StatelessWidget {
-  _launchURL(String mail) async {
-    var url = 'mailto:$mail';
-    if (await canLaunch(url)) {
-      await launch(url);
-    } else {
-      throw 'Could not launch $url';
-    }
-  }
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -50,8 +40,7 @@ class About extends StatelessWidget {
      Книга как раз-таки станет решением данной проблемы в области социолингвистики, поскольку, данный словарь поможет составлению речи путем использования пословиц двух народов при преподавании, а также изучении английского и узбекского языка 
 """,
                         textAlign: TextAlign.justify,
-                        style: Theme.of(context).textTheme.bodyText1.copyWith(
-                            fontWeight: FontWeight.w400, fontSize: 14),
+                        style: Theme.of(context).textTheme.bodyText1.copyWith(fontWeight: FontWeight.w400, fontSize: 14),
                       ),
                       SizedBox(height: 20),
                     ],
@@ -90,8 +79,7 @@ class About extends StatelessWidget {
      The book will just be the solution to this problem in the field of sociolinguistics, since this dictionary will help to compose speech by using proverbs of the two peoples when teaching, as well as studying English and Uzbek.
 """,
                         textAlign: TextAlign.justify,
-                        style: Theme.of(context).textTheme.bodyText1.copyWith(
-                            fontWeight: FontWeight.w400, fontSize: 14),
+                        style: Theme.of(context).textTheme.bodyText1.copyWith(fontWeight: FontWeight.w400, fontSize: 14),
                       ),
                       SizedBox(height: 20),
                     ],
